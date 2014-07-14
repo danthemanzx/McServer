@@ -1,6 +1,0 @@
-McServer
-========
-
-Minecraft Server
-
-"?"

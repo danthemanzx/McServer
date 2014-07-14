@@ -1,0 +1,41 @@
+[01:02:21] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[01:02:21] [Server thread/INFO]: Loading properties
+[01:02:21] [Server thread/WARN]: server.properties does not exist
+[01:02:21] [Server thread/INFO]: Generating new properties file
+[01:02:21] [Server thread/INFO]: Default game type: SURVIVAL
+[01:02:21] [Server thread/INFO]: Generating keypair
+[01:02:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:02:21] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.3-b3020jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.3)
+[01:02:21] [Server thread/WARN]: Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+[01:02:21] [Server thread/WARN]: Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+[01:02:21] [Server thread/INFO]: Preparing level "world"
+[01:02:21] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7263888012061124272)
+[01:02:22] [Thread-6/INFO]: ----- Bukkit Auto Updater -----
+[01:02:22] [Thread-6/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[01:02:22] [Thread-6/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[01:02:22] [Thread-6/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[01:02:22] [Thread-6/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[01:02:22] [Thread-6/INFO]: ----- ------------------- -----
+[01:02:22] [Server thread/INFO]: Preparing spawn area: 12%
+[01:02:23] [Server thread/INFO]: Preparing spawn area: 28%
+[01:02:24] [Server thread/INFO]: Preparing spawn area: 47%
+[01:02:25] [Server thread/INFO]: Preparing spawn area: 67%
+[01:02:26] [Server thread/INFO]: Preparing spawn area: 86%
+[01:02:27] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7263888012061124272)
+[01:02:28] [Server thread/INFO]: Preparing spawn area: 29%
+[01:02:29] [Server thread/INFO]: Preparing spawn area: 48%
+[01:02:30] [Server thread/INFO]: Preparing spawn area: 71%
+[01:02:31] [Server thread/INFO]: Preparing spawn area: 94%
+[01:02:32] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7263888012061124272)
+[01:02:33] [Server thread/INFO]: Preparing spawn area: 81%
+[01:02:33] [Server thread/INFO]: Done (11.624s)! For help, type "help" or "?"
+[01:02:35] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[01:02:35] [Server thread/INFO]: Stopping server
+[01:02:35] [Server thread/INFO]: Saving players
+[01:02:35] [Server thread/INFO]: Saving worlds
+[01:02:35] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:02:36] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[01:02:37] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[01:02:37] [Thread-4/INFO]: Stopping server
+[01:02:37] [Thread-4/INFO]: Saving players
+[01:02:37] [Thread-4/INFO]: Saving worlds
