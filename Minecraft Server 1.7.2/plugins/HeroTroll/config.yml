@@ -1,7 +1,0 @@
-HeroTroll:
-  Config:
-    EnableHerobrineAI: true
-    SignMessage: Im watching you
-    HerobrineBow:
-      Useable: true
-      Craftable: true
