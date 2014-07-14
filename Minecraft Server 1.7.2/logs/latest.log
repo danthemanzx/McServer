@@ -1,41 +1,248 @@
-[01:02:21] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[01:02:21] [Server thread/INFO]: Loading properties
-[01:02:21] [Server thread/WARN]: server.properties does not exist
-[01:02:21] [Server thread/INFO]: Generating new properties file
-[01:02:21] [Server thread/INFO]: Default game type: SURVIVAL
-[01:02:21] [Server thread/INFO]: Generating keypair
-[01:02:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:02:21] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.3-b3020jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.3)
-[01:02:21] [Server thread/WARN]: Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
-[01:02:21] [Server thread/WARN]: Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
-[01:02:21] [Server thread/INFO]: Preparing level "world"
-[01:02:21] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7263888012061124272)
-[01:02:22] [Thread-6/INFO]: ----- Bukkit Auto Updater -----
-[01:02:22] [Thread-6/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
-[01:02:22] [Thread-6/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
-[01:02:22] [Thread-6/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
-[01:02:22] [Thread-6/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
-[01:02:22] [Thread-6/INFO]: ----- ------------------- -----
-[01:02:22] [Server thread/INFO]: Preparing spawn area: 12%
-[01:02:23] [Server thread/INFO]: Preparing spawn area: 28%
-[01:02:24] [Server thread/INFO]: Preparing spawn area: 47%
-[01:02:25] [Server thread/INFO]: Preparing spawn area: 67%
-[01:02:26] [Server thread/INFO]: Preparing spawn area: 86%
-[01:02:27] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7263888012061124272)
-[01:02:28] [Server thread/INFO]: Preparing spawn area: 29%
-[01:02:29] [Server thread/INFO]: Preparing spawn area: 48%
-[01:02:30] [Server thread/INFO]: Preparing spawn area: 71%
-[01:02:31] [Server thread/INFO]: Preparing spawn area: 94%
-[01:02:32] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7263888012061124272)
-[01:02:33] [Server thread/INFO]: Preparing spawn area: 81%
-[01:02:33] [Server thread/INFO]: Done (11.624s)! For help, type "help" or "?"
-[01:02:35] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[01:02:35] [Server thread/INFO]: Stopping server
-[01:02:35] [Server thread/INFO]: Saving players
-[01:02:35] [Server thread/INFO]: Saving worlds
-[01:02:35] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[01:02:36] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[01:02:37] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[01:02:37] [Thread-4/INFO]: Stopping server
-[01:02:37] [Thread-4/INFO]: Saving players
-[01:02:37] [Thread-4/INFO]: Saving worlds
+[14:34:05] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[14:34:05] [Server thread/INFO]: Loading properties
+[14:34:06] [Server thread/INFO]: Default game type: SURVIVAL
+[14:34:06] [Server thread/INFO]: Generating keypair
+[14:34:06] [Server thread/INFO]: Starting Minecraft server on 25.163.97.222:25565
+[14:34:06] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.3-b3020jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.3)
+[14:34:06] [Server thread/INFO]: [Administration_Panel] Loading Administration_Panel v1.1.2
+[14:34:06] [Server thread/INFO]: Preparing level "world"
+[14:34:06] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7263888012061124272)
+[14:34:07] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7263888012061124272)
+[14:34:07] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[14:34:07] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[14:34:07] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[14:34:07] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[14:34:07] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[14:34:07] [Thread-7/INFO]: ----- ------------------- -----
+[14:34:07] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7263888012061124272)
+[14:34:07] [Server thread/INFO]: [Administration_Panel] Enabling Administration_Panel v1.1.2
+[14:34:07] [Server thread/INFO]: [0;37;22m[[0;36;1mAdministration[0;36;22mPanel[0;37;22m][0;37;1m: [0;31;1m[0;31;1mAdministration_Panel v1.1.2 has been enabled![m
+[14:34:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:34:07] [Server thread/INFO]: Done (1.334s)! For help, type "help" or "?"
+[14:34:17] [User Authenticator #1/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
+[14:34:17] [Server thread/INFO]: huntmeister97[/25.2.59.2:56167] logged in with entity id 1836 at ([world] 243.5, 71.0, 103.5)
+[14:34:53] [Server thread/INFO]: huntmeister97 issued server command: /help
+[14:35:04] [Server thread/INFO]: huntmeister97 issued server command: /administrationpanel
+[14:35:11] [Server thread/INFO]: huntmeister97 issued server command: /ap
+[14:35:14] [User Authenticator #2/INFO]: UUID of player thudog77 is 1242482dc50e44fa9556fe1d25921ed7
+[14:35:14] [Server thread/INFO]: thudog77[/25.163.97.222:61525] logged in with entity id 3846 at ([world] 252.5, 70.0, 102.5)
+[14:35:17] [Server thread/INFO]: huntmeister97 issued server command: /acp
+[14:35:17] [Server thread/INFO]: thudog77 issued server command: /help
+[14:35:21] [Server thread/INFO]: huntmeister97 issued server command: /freeze thudog77
+[14:35:25] [Server thread/INFO]: thudog77 issued server command: /help adminstrationpanel
+[14:35:30] [Server thread/INFO]: thudog77 issued server command: /ap
+[14:35:33] [Server thread/INFO]: huntmeister97 issued server command: /ap
+[14:35:34] [Server thread/INFO]: thudog77 issued server command: /ap help
+[14:35:38] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[14:35:38] [Server thread/INFO]: huntmeister97 issued server command: /gamemode 1
+[14:35:43] [Server thread/INFO]: CONSOLE: Opped thudog77[m
+[14:35:47] [Server thread/INFO]: CONSOLE: Opped huntmeister97[m
+[14:35:51] [Server thread/INFO]: huntmeister97 issued server command: /ap
+[14:35:51] [Server thread/INFO]: thudog77 issued server command: /ap help
+[14:35:51] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ap' in plugin Administration_Panel v1.1.2
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:175) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.dispatchCommand(CraftServer.java:683) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.handleCommand(PlayerConnection.java:952) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:814) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInChat.a(PacketPlayInChat.java:28) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInChat.handle(PacketPlayInChat.java:47) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at net.lionhard.administrationpanel.commands.AdminCommands.onCommand(AdminCommands.java:58) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 13 more
+[14:35:53] [Server thread/INFO]: thudog77 issued server command: /ap
+[14:36:00] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to Administration_Panel v1.1.2
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:578) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.EntityPlayer.openContainer(EntityPlayer.java:615) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.entity.CraftHumanEntity.openInventory(CraftHumanEntity.java:193) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.lionhard.administrationpanel.guis.FreezeMenu.onInventoryClick(FreezeMenu.java:70) [Administration_Panel.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1361) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInWindowClick.a(SourceFile:32) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInWindowClick.handle(SourceFile:10) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()Ljava/util/Collection;
+	at net.lionhard.administrationpanel.guis.Template.fillSelector(Template.java:207) ~[?:?]
+	at net.lionhard.administrationpanel.guis.PlayerSelector.onInventoryOpen(PlayerSelector.java:36) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 25 more
+[14:36:07] [Server thread/INFO]: huntmeister97 issued server command: /freeze thudog77
+[14:36:08] [Server thread/ERROR]: Could not pass event InventoryClickEvent to Administration_Panel v1.1.2
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1361) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInWindowClick.a(SourceFile:32) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInWindowClick.handle(SourceFile:10) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()Ljava/util/Collection;
+	at net.lionhard.administrationpanel.guis.AdminPanel.onInventoryClick(AdminPanel.java:170) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 13 more
+[14:36:11] [Server thread/INFO]: huntmeister97 issued server command: /ap
+[14:36:13] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to Administration_Panel v1.1.2
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:578) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.EntityPlayer.openContainer(EntityPlayer.java:615) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.entity.CraftHumanEntity.openInventory(CraftHumanEntity.java:193) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.lionhard.administrationpanel.guis.MuteMenu.onInventoryClick(MuteMenu.java:70) [Administration_Panel.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1361) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInWindowClick.a(SourceFile:32) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInWindowClick.handle(SourceFile:10) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()Ljava/util/Collection;
+	at net.lionhard.administrationpanel.guis.Template.fillSelector(Template.java:207) ~[?:?]
+	at net.lionhard.administrationpanel.guis.PlayerSelector.onInventoryOpen(PlayerSelector.java:36) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 25 more
+[14:36:14] [Server thread/ERROR]: Could not pass event InventoryClickEvent to Administration_Panel v1.1.2
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1361) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInWindowClick.a(SourceFile:32) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInWindowClick.handle(SourceFile:10) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at net.lionhard.administrationpanel.guis.PlayerSelector.onInventoryClick(PlayerSelector.java:61) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 13 more
+[14:36:16] [Server thread/INFO]: huntmeister97 has just earned the achievement [Taking Inventory]
+[14:36:18] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[14:36:18] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
+[14:36:23] [Server thread/INFO]: huntmeister97 issued server command: /ap
+[14:36:24] [Server thread/INFO]: thudog77 issued server command: /deop thudog77
+[14:36:24] [Server thread/INFO]: thudog77: De-opped thudog77[m
+[14:36:27] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to Administration_Panel v1.1.2
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:578) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.EntityPlayer.openContainer(EntityPlayer.java:615) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.entity.CraftHumanEntity.openInventory(CraftHumanEntity.java:193) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.lionhard.administrationpanel.guis.FreezeMenu.onInventoryClick(FreezeMenu.java:70) [Administration_Panel.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1361) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInWindowClick.a(SourceFile:32) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInWindowClick.handle(SourceFile:10) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()Ljava/util/Collection;
+	at net.lionhard.administrationpanel.guis.Template.fillSelector(Template.java:207) ~[?:?]
+	at net.lionhard.administrationpanel.guis.PlayerSelector.onInventoryOpen(PlayerSelector.java:36) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 25 more
+[14:36:42] [Server thread/INFO]: huntmeister97 issued server command: /gamemode 1
+[14:36:42] [Server thread/INFO]: huntmeister97: Set own game mode to CREATIVE mode[m
+[14:37:02] [Server thread/INFO]: huntmeister97 issued server command: /set gamemode 0 thudog77
+[14:37:11] [Server thread/INFO]: huntmeister97 issued server command: /set gamemode 0 thudog77
+[14:37:13] [Netty IO #2/INFO]: <huntmeister97> thudog77[m
+[14:37:21] [Server thread/INFO]: huntmeister97 issued server command: /set thudog77 gamemode 0
+[14:37:29] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[14:37:29] [Server thread/INFO]: Stopping server
+[14:37:29] [Server thread/INFO]: [Administration_Panel] Disabling Administration_Panel v1.1.2
+[14:37:29] [Server thread/INFO]: [0;37;22m[[0;36;1mAdministration[0;36;22mPanel[0;37;22m][0;37;1m: [0;31;1m[0;31;1mAdministration_Panel v1.1.2 has been disabled![m
+[14:37:29] [Server thread/INFO]: Saving players
+[14:37:29] [Server thread/INFO]: huntmeister97 lost connection: Server closed
+[14:37:29] [Server thread/INFO]: huntmeister97 left the game.
+[14:37:29] [Server thread/INFO]: Saving worlds
+[14:37:29] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[14:37:30] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[14:37:30] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[14:37:30] [Thread-4/INFO]: Stopping server
+[14:37:30] [Thread-4/INFO]: Saving players
