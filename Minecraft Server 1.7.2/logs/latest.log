@@ -1,162 +1,59 @@
-[19:19:28] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[19:19:28] [Server thread/INFO]: Loading properties
-[19:19:28] [Server thread/INFO]: Default game type: SURVIVAL
-[19:19:28] [Server thread/INFO]: Generating keypair
-[19:19:28] [Server thread/INFO]: Starting Minecraft server on 25.163.97.222:25565
-[19:19:28] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.3-b3020jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.3)
-[19:19:28] [Server thread/INFO]: [BKCommonLib] Loading BKCommonLib v1.57
-[19:19:29] [Server thread/INFO]: [BetterFly] Loading BetterFly v0.2
-[19:19:29] [Server thread/INFO]: [Tazeme] Loading Tazeme v0.1
-[19:19:29] [Server thread/INFO]: [EchoPet] Loading EchoPet v2.3.3-b408
-[19:19:29] [Server thread/INFO]: [NoLagg] Loading NoLagg v1.90.4
-[19:19:29] [Server thread/INFO]: [BKCommonLib] Enabling BKCommonLib v1.57
-[19:19:29] [Server thread/INFO]: [BKCommonLib] BKCommonLib is running on CraftBukkit (git-Bukkit-1.7.2-R0.3-b3020jnks) : v1_7_R1 (Minecraft 1.7.2)
-[19:19:29] [Server thread/INFO]: [BKCommonLib] [Network] Now using a PlayerConnection hook to provide Packet Listener and Monitor support
-[19:19:29] [Server thread/INFO]: [BKCommonLib] Want fries with that? We have hidden fries in the FoodUtil class.
-[19:19:29] [Server thread/INFO]: BKCommonLib version 1.57 enabled! (0.115s)
-[19:19:29] [Server thread/INFO]: Preparing level "world"
-[19:19:29] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7263888012061124272)
-[19:19:29] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
-[19:19:29] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
-[19:19:29] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
-[19:19:29] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
-[19:19:29] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
-[19:19:29] [Thread-7/INFO]: ----- ------------------- -----
-[19:19:29] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7263888012061124272)
-[19:19:30] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7263888012061124272)
-[19:19:30] [Server thread/INFO]: [BetterFly] Enabling BetterFly v0.2
-[19:19:30] [Server thread/INFO]: BetterFly by lzongolo has been enabled!
-[19:19:30] [Server thread/INFO]: [Tazeme] Enabling Tazeme v0.1
-[19:19:30] [Server thread/INFO]: [EchoPet] Enabling EchoPet v2.3.3-b408
-[19:19:31] [Server thread/INFO]: [NoLagg] Enabling NoLagg v1.90.4
-[19:19:31] [Server thread/INFO]: [NoLagg Saving] will write world data to all region files every 12000 ticks (10.0 minutes)
-[19:19:31] [Server thread/INFO]: NoLagg version 1.90.4 enabled! (0.167s)
-[19:19:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:19:31] [Server thread/INFO]: Done (1.967s)! For help, type "help" or "?"
-[19:19:32] [pool-3-thread-2/INFO]: [EchoPet] [0;32;1m[INFO] [0;33;22mAn update is available: EchoPet v2.3.3[m
-[19:19:32] [pool-3-thread-2/INFO]: [EchoPet] [0;32;1m[INFO] [0;33;22mType /ecupdate to update.[m
-[19:19:40] [User Authenticator #1/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
-[19:19:40] [Server thread/INFO]: huntmeister97[/25.2.59.2:61746] logged in with entity id 587 at ([world] 254.0518770286185, 77.73935697417646, 116.88361013093389)
-[19:19:41] [User Authenticator #2/INFO]: UUID of player thudog77 is 1242482dc50e44fa9556fe1d25921ed7
-[19:19:41] [Server thread/INFO]: thudog77[/25.163.97.222:54136] logged in with entity id 588 at ([world] 263.391487933308, 105.0, 101.71505141316447)
-[19:19:45] [Server thread/INFO]: thudog77 issued server command: /help
-[19:19:49] [Server thread/INFO]: thudog77 issued server command: /help tazeme
-[19:19:52] [Server thread/INFO]: huntmeister97 issued server command: /gamemode 0 thudog77
-[19:19:52] [Server thread/INFO]: huntmeister97: Set thudog77's game mode to SURVIVAL mode[m
-[19:19:57] [Server thread/INFO]: thudog77 issued server command: /taze huntmeister97
-[19:19:57] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:01] [Server thread/WARN]: huntmeister97 moved too quickly! -6.713645382901859,0.0,17.804907176843813 (6.713645382901859, 0.0, 17.804907176843813)
-[19:20:03] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[19:20:03] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
-[19:20:07] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:08] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:09] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:10] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:11] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:13] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:14] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:15] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:15] [Server thread/INFO]: thudog77 issued server command: /gamemode 0 huntmeister97
-[19:20:15] [Server thread/INFO]: thudog77: Set huntmeister97's game mode to SURVIVAL mode[m
-[19:20:17] [Server thread/INFO]: thudog77 issued server command: /taze huntmeister97
-[19:20:17] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:19] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:20] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:21] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:20:21] [Server thread/WARN]: huntmeister97 was kicked for floating too long!
-[19:20:21] [Server thread/INFO]: huntmeister97 lost connection: Flying is not enabled on this server
-[19:20:21] [Server thread/INFO]: huntmeister97 left the game.
-[19:20:36] [Server thread/INFO]: thudog77 issued server command: /gamemode 0 huntmeister97
-[19:20:42] [Server thread/INFO]: thudog77 issued server command: /gamemode 0 huntmeister97
-[19:21:09] [User Authenticator #3/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
-[19:21:09] [Server thread/INFO]: huntmeister97[/25.2.59.2:61814] logged in with entity id 2431 at ([world] 259.76552241152035, 77.73935697417646, 99.07870295409008)
-[19:21:13] [Server thread/INFO]: thudog77 issued server command: /taze huntmeister97
-[19:21:17] [Server thread/INFO]: thudog77 issued server command: /taze huntmeister97
-[19:21:19] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:21:22] [Server thread/INFO]: thudog77 issued server command: /taze huntmeister97
-[19:21:23] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:21:24] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:21:25] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:21:25] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:21:26] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:21:28] [Server thread/INFO]: huntmeister97 issued server command: /taze thudog77
-[19:21:37] [Server thread/INFO]: huntmeister97 lost connection: Disconnected
-[19:21:37] [Server thread/INFO]: huntmeister97 left the game.
-[19:21:44] [User Authenticator #4/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
-[19:21:44] [Server thread/INFO]: huntmeister97[/25.2.59.2:61871] logged in with entity id 3387 at ([world] 260.5247236427509, 70.0, 97.46090824845545)
-[19:21:45] [Server thread/INFO]: thudog77 issued server command: /taze huntmeister97
-[19:21:56] [Server thread/INFO]: thudog77 issued server command: /taze huntmeister97
-[19:22:12] [Server thread/INFO]: huntmeister97 issued server command: /fly
-[19:22:25] [Server thread/INFO]: huntmeister97 lost connection: Disconnected
-[19:22:25] [Server thread/INFO]: huntmeister97 left the game.
-[19:22:31] [User Authenticator #5/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
-[19:22:31] [Server thread/INFO]: huntmeister97[/25.2.59.2:61981] logged in with entity id 4148 at ([world] 260.8419859466308, 71.24918707874468, 98.15886511121543)
-[19:22:34] [Server thread/INFO]: huntmeister97 issued server command: /fly
-[19:22:41] [Server thread/INFO]: huntmeister97 issued server command: /flyspeed
-[19:22:47] [Server thread/INFO]: thudog77 issued server command: /fky
-[19:22:48] [Server thread/INFO]: huntmeister97 issued server command: /fly help
-[19:22:49] [Server thread/INFO]: thudog77 issued server command: /fly
-[19:22:53] [Server thread/INFO]: thudog77 issued server command: /flyoff
-[19:23:01] [Server thread/INFO]: huntmeister97 issued server command: /fly help
-[19:23:08] [Server thread/INFO]: huntmeister97 issued server command: /flynormal
-[19:23:20] [Server thread/INFO]: thudog77 issued server command: /fly
-[19:23:52] [Server thread/INFO]: huntmeister97 issued server command: /maxspeed
-[19:24:07] [Server thread/INFO]: thudog77 issued server command: /help fly
-[19:24:18] [Server thread/INFO]: thudog77 issued server command: /fly 10
-[19:24:23] [Server thread/INFO]: huntmeister97 issued server command: /tp thudog77
-[19:24:23] [Server thread/INFO]: huntmeister97: Teleported huntmeister97 to thudog77[m
-[19:24:26] [Server thread/INFO]: thudog77 issued server command: /flyspeed 10s
-[19:24:28] [Server thread/INFO]: thudog77 issued server command: /flyspeed 10
-[19:24:31] [Server thread/INFO]: thudog77 issued server command: /fly speed 10
-[19:24:36] [Server thread/INFO]: thudog77 issued server command: /fly speed 100
-[19:24:43] [Server thread/INFO]: huntmeister97 was slain by thudog77
-[19:24:43] [Server thread/INFO]: huntmeister97 lost connection: Disconnected
-[19:24:43] [Server thread/INFO]: huntmeister97 left the game.
-[19:24:51] [User Authenticator #6/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
-[19:24:51] [Server thread/INFO]: huntmeister97[/25.2.59.2:62497] logged in with entity id 6602 at ([world] 262.3324789880544, 86.96888178894531, 88.88558850023225)
-[19:24:55] [Server thread/INFO]: thudog77 issued server command: /maxspeed
-[19:25:01] [Server thread/INFO]: huntmeister97 issued server command: /fly
-[19:25:14] [Server thread/INFO]: huntmeister97 issued server command: /maxspeed
-[19:25:25] [Server thread/INFO]: huntmeister97 issued server command: /gamemode 1
-[19:25:25] [Server thread/INFO]: huntmeister97: Set own game mode to CREATIVE mode[m
-[19:25:33] [Server thread/INFO]: huntmeister97 issued server command: /flyoff
-[19:25:37] [Server thread/WARN]: huntmeister97 was kicked for floating too long!
-[19:25:37] [Server thread/INFO]: huntmeister97 lost connection: Flying is not enabled on this server
-[19:25:37] [Server thread/INFO]: huntmeister97 left the game.
-[19:25:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4529ms behind, skipping 90 tick(s)
-[19:26:09] [User Authenticator #7/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
-[19:26:09] [Server thread/INFO]: huntmeister97[/25.2.59.2:62815] logged in with entity id 16329 at ([world] 286.8651252872647, 81.51940778036396, 127.96270748103093)
-[19:26:54] [Server thread/INFO]: huntmeister97 issued server command: /tp thudog77
-[19:26:54] [Server thread/INFO]: huntmeister97: Teleported huntmeister97 to thudog77[m
-[19:27:09] [Server thread/INFO]: huntmeister97 lost connection: Disconnected
-[19:27:09] [Server thread/INFO]: huntmeister97 left the game.
-[19:27:14] [User Authenticator #8/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
-[19:27:14] [Server thread/INFO]: huntmeister97[/25.2.59.2:62986] logged in with entity id 22576 at ([world] 344.61764245850094, 79.85537152794984, 88.53980957360746)
-[19:27:45] [Server thread/INFO]: thudog77 issued server command: /tp thudog77 huntmeister97
-[19:27:45] [Server thread/INFO]: thudog77: Teleported thudog77 to huntmeister97[m
-[19:29:02] [Server thread/INFO]: huntmeister97 issued server command: /normalspeed
-[19:29:52] [Server thread/INFO]: huntmeister97 issued server command: /maxspeed
-[19:32:44] [Server thread/WARN]: huntmeister97 moved too quickly! 5.552652205568904,-2.7793458139894653,66.57736609283066 (5.552652205568904, 2.7793458139894653, 66.57736609283066)
-[19:32:59] [Server thread/WARN]: huntmeister97 moved too quickly! 140.67035652506945,13.364456059972923,-69.3552599770388 (140.67035652506945, 13.364456059972923, 69.3552599770388)
-[19:34:05] [Server thread/INFO]: thudog77 lost connection: Disconnected
-[19:34:05] [Server thread/INFO]: thudog77 left the game.
-[19:34:12] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[19:34:12] [Server thread/INFO]: Stopping server
-[19:34:12] [Server thread/INFO]: [NoLagg] Disabling NoLagg v1.90.4
-[19:34:12] [Server thread/INFO]: NoLagg disabled!
-[19:34:12] [Server thread/INFO]: [EchoPet] Disabling EchoPet v2.3.3-b408
-[19:34:12] [Server thread/INFO]: [Tazeme] Disabling Tazeme v0.1
-[19:34:12] [Server thread/INFO]: [BetterFly] Disabling BetterFly v0.2
-[19:34:12] [Server thread/INFO]: BetterFly has been disabled.
-[19:34:12] [Server thread/INFO]: [BKCommonLib] Disabling BKCommonLib v1.57
-[19:34:12] [Server thread/INFO]: Saving players
-[19:34:12] [Server thread/INFO]: huntmeister97 lost connection: Server closed
-[19:34:12] [Server thread/INFO]: huntmeister97 left the game.
-[19:34:12] [Server thread/INFO]: Saving worlds
-[19:34:12] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[19:34:13] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[19:34:13] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[19:34:13] [Thread-4/INFO]: Stopping server
-[19:34:13] [Thread-4/INFO]: Saving players
-[19:34:13] [Thread-4/INFO]: Saving worlds
-[19:34:13] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[20:39:39] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[20:39:39] [Server thread/INFO]: Loading properties
+[20:39:39] [Server thread/INFO]: Default game type: SURVIVAL
+[20:39:39] [Server thread/INFO]: Generating keypair
+[20:39:39] [Server thread/INFO]: Starting Minecraft server on 25.163.97.222:25565
+[20:39:39] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.3-b3020jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.3)
+[20:39:40] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.0
+[20:39:40] [Server thread/INFO]: [BKCommonLib] Loading BKCommonLib v1.57
+[20:39:40] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.21.3
+[20:39:40] [Server thread/INFO]: [EchoPet] Loading EchoPet v2.3.3-b408
+[20:39:40] [Server thread/INFO]: [NoLagg] Loading NoLagg v1.90.4
+[20:39:40] [Server thread/INFO]: [BKCommonLib] Enabling BKCommonLib v1.57
+[20:39:40] [Server thread/INFO]: [BKCommonLib] BKCommonLib is running on CraftBukkit (git-Bukkit-1.7.2-R0.3-b3020jnks) : v1_7_R1 (Minecraft 1.7.2)
+[20:39:40] [Server thread/INFO]: [BKCommonLib] [Network] Now using a PlayerConnection hook to provide Packet Listener and Monitor support
+[20:39:40] [Server thread/INFO]: [BKCommonLib] I am still winning the game. Are you?
+[20:39:40] [Server thread/INFO]: BKCommonLib version 1.57 enabled! (0.111s)
+[20:39:40] [Server thread/INFO]: Preparing level "world"
+[20:39:40] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7263888012061124272)
+[20:39:40] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[20:39:40] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[20:39:40] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[20:39:40] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[20:39:40] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[20:39:40] [Thread-7/INFO]: ----- ------------------- -----
+[20:39:41] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7263888012061124272)
+[20:39:41] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7263888012061124272)
+[20:39:41] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.0
+[20:39:41] [Server thread/INFO]: Created new configuration file config.yml from defaults.
+[20:39:41] [Server thread/INFO]: Created new configuration file lang.yml from defaults.
+[20:39:41] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[20:39:41] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.21.3
+[20:39:41] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[20:39:41] [Server thread/INFO]: [EchoPet] Enabling EchoPet v2.3.3-b408
+[20:39:42] [Server thread/INFO]: [NoLagg] Enabling NoLagg v1.90.4
+[20:39:42] [Thread-10/WARN]: [PermissionsEx] An update to PermissionsEx version 1.22.1 is available to download from http://dev.bukkit.org/bukkit-plugins/permissionsex/. Please review the changes and update as soon as possible!
+[20:39:42] [Server thread/INFO]: [NoLagg Saving] will write world data to all region files every 12000 ticks (10.0 minutes)
+[20:39:42] [Server thread/INFO]: NoLagg version 1.90.4 enabled! (0.315s)
+[20:39:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:39:42] [Server thread/INFO]: Done (2.268s)! For help, type "help" or "?"
+[20:39:43] [pool-3-thread-3/INFO]: [EchoPet] [0;32;1m[INFO] [0;33;22mAn update is available: EchoPet v2.3.3[m
+[20:39:43] [pool-3-thread-3/INFO]: [EchoPet] [0;32;1m[INFO] [0;33;22mType /ecupdate to update.[m
+[20:39:45] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[20:39:45] [Server thread/INFO]: Stopping server
+[20:39:45] [Server thread/INFO]: [NoLagg] Disabling NoLagg v1.90.4
+[20:39:45] [Server thread/INFO]: NoLagg disabled!
+[20:39:45] [Server thread/INFO]: [EchoPet] Disabling EchoPet v2.3.3-b408
+[20:39:45] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.21.3
+[20:39:45] [Server thread/INFO]: [BKCommonLib] Disabling BKCommonLib v1.57
+[20:39:45] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.2.0
+[20:39:45] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[20:39:45] [Server thread/INFO]: Saving players
+[20:39:45] [Server thread/INFO]: Saving worlds
+[20:39:45] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[20:39:46] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[20:39:46] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[20:39:46] [Thread-4/INFO]: Stopping server
+[20:39:46] [Thread-4/INFO]: Saving players
+[20:39:46] [Thread-4/INFO]: Saving worlds
+[20:39:46] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
