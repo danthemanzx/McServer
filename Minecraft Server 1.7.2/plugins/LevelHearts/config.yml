@@ -13,11 +13,11 @@ updateCheck:
 
 maxHealth:
   default: 20
-  levelInterval: 5
-  limit: 60
+  levelInterval: 10
+  limit: 40
   reset:
     login: false
-    death: false
+    death: true
   restoreHealth: true
   particleEffect:
     increase: heart

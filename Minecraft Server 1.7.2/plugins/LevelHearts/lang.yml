@@ -33,11 +33,11 @@ enUS:
       command: "&(yellow)/%(syntax)&(gray) - &(white)%(description)"
     info:
       self:
-        get: "&(prefix)&(gold)You have %(health)&(gold) of %(maxHealth)&(gold) health!"
+        get: "&(gold)You have %(health)&(gold) of %(maxHealth)&(gold) health!"
         increase: "&(yellow)Your maximum health will increase on level &(gold)%(maxHealthIncreaseLevel)&(yellow)!"
         noIncrease: "&(yellow)You can no longer increase your maximum health."
       other:
-        get: "&(prefix)&(gold)%(player) has %(health)&(gold) of %(maxHealth)&(gold) health!"
+        get: "&(gold)%(player) has %(health)&(gold) of %(maxHealth)&(gold) health!"
         increase: "&(yellow)His maximum health will increase on level &(gold)%(maxHealthIncreaseLevel)&(yellow)!"
         noIncrease: "&(yellow)He can no longer increase his maximum health."
     health:
@@ -55,10 +55,10 @@ enUS:
     status: "&(white) - &(yellow)Current health: %(health)&(yellow)."
     change:
       command:
-        set: "&(prefix)&(yellow)Your health has been set to %(health)&(yellow)."
-        give: "&(prefix)&(yellow)Your health has been increased by %(healthChange)&(yellow)."
-        take: "&(prefix)&(yellow)Your health has been decreased by %(healthChange)&(yellow)."
-        restore: "&(prefix)&(yellow)Your health has been restored."
+        set: "&(yellow)Your health has been set to %(health)&(yellow)."
+        give: "&(yellow)Your health has been increased by %(healthChange)&(yellow)."
+        take: "&(yellow)Your health has been decreased by %(healthChange)&(yellow)."
+        restore: "&(yellow)Your health has been restored."
     help:
       general: "Health specific commands"
       get: "Display the health of a player"
@@ -70,14 +70,14 @@ enUS:
     display: "&(red)%(maxHealth) &(heart)"
     status: "&(white) - &(yellow)Current maximum health: %(maxHealth)&(yellow)."
     change:
-      levelUp: "&(prefix)&(gold)You leveled up and your maximum health has increased!"
-      death: "&(prefix)&(yellow)Your maximum health has been reset because you died."
-      login: "&(prefix)&(yellow)Your maximum health has been reset because you left the server."
+      levelUp: "&(grey)You leveled up and your maximum health has increased!"
+      death: "&(yellow)Your maximum health has been reset because you died."
+      login: "&(yellow)Your maximum health has been reset because you left the server."
       command:
-        set: "&(prefix)&(yellow)Your maximum health has been set to %(maxHealth)&(yellow)."
-        give: "&(prefix)&(yellow)Your maximum health has been increased by %(maxHealthChange)&(yellow)."
-        take: "&(prefix)&(yellow)Your maximum health has been decreased by %(maxHealthChange)&(yellow)."
-        reset: "&(prefix)&(yellow)Your maximum health has been reset."
+        set: "&(yellow)Your maximum health has been set to %(maxHealth)&(yellow)."
+        give: "&(yellow)Your maximum health has been increased by %(maxHealthChange)&(yellow)."
+        take: "&(yellow)Your maximum health has been decreased by %(maxHealthChange)&(yellow)."
+        reset: "&(yellow)Your maximum health has been reset."
     help:
       general: "Maximum health specific commands"
       get: "Display the maximum health of a player"
@@ -87,17 +87,17 @@ enUS:
       reset: "Resets the maximum health of a player"
   plugin:
     prefix: "&(gray)[&(darkRed)LevelHearts&(gray)] "
-    info: "&(prefix)&(yellow)This server is running &(red)LevelHearts&(yellow) v%(version) by %(creator)!"
+    info: "&(yellow)This server is running &(red)LevelHearts&(yellow) v%(version) by %(creator)!"
     website: "&(yellow)Website: &(gray)%(website)"
-    reload: "&(prefix)&(white)Reloaded plugin configurations &(...)"
-    updateAvailable: "&(prefix)&(yellow)An update is available &(white)(%(updateName) for %(updateGameVersion))&(yellow)!&(br)&(white)Download it at &(gray)%(updateLink)&(white)."
+    reload: "&(white)Reloaded plugin configurations &(...)"
+    updateAvailable: "&(yellow)An update is available &(white)(%(updateName) for %(updateGameVersion))&(yellow)!&(br)&(white)Download it at &(gray)%(updateLink)&(white)."
     help:
       reload: "Reloads the plugin"
 enUK:
   maxHealth:
     change:
       levelUp:
-        self: "&(prefix)&(gold)You levelled up and your maximum health has increased!"
+        self: "&(gold)You levelled up and your maximum health has increased!"
 deDE:
   prefix: "&(gray)[&(darkRed)LevelHearts&(gray)] "
   command:
@@ -120,25 +120,25 @@ deDE:
       command: "&(yellow)/%(syntax)&(gray) - &(white)%(description)"
     info:
       self:
-        get: "&(prefix)&(gold)Du hast %(health)&(gold) von %(maxHealth)&(gold) Leben!"
+        get: "&(gold)Du hast %(health)&(gold) von %(maxHealth)&(gold) Leben!"
         increase: "&(yellow)Dein maximales Leben wird sich auf Stufe &(gold)%(maxHealthIncreaseLevel)&(yellow) verbessern!"
         noIncrease: "&(yellow)Dein maximales Leben ist auf h&(ouml)chster Stufe."
       other:
-        get: "&(prefix)&(gold)%(player) hat %(health)&(gold) von %(maxHealth)&(gold) Leben!"
+        get: "&(gold)%(player) hat %(health)&(gold) von %(maxHealth)&(gold) Leben!"
         increase: "&(yellow)Sein maximales Leben wird sich auf Stufe &(gold)%(maxHealthIncreaseLevel)&(yellow) verbessern!"
         noIncrease: "&(yellow)Sein maximales Leben ist auf voller Stufe."
   health:
     display: "&(red)%(health) &(heart)"
     change:
       manual:
-        self: "&(prefix)&(gold)Dein Leben &(auml)nderte sich von %(oldHealth)&(gold) auf %(health)&(gold)!"
-        other: "&(prefix)&(gold)%(player)s Leben &(auml)nderte sich von %(oldHealth)&(gold) auf %(health)&(gold)!"
+        self: "&(gold)Dein Leben &(auml)nderte sich von %(oldHealth)&(gold) auf %(health)&(gold)!"
+        other: "&(gold)%(player)s Leben &(auml)nderte sich von %(oldHealth)&(gold) auf %(health)&(gold)!"
       restore:
         self: null
-        other: "&(prefix)&(gold)%(player)s Leben wurde vervollst&(auml)ndigt."
+        other: "&(gold)%(player)s Leben wurde vervollst&(auml)ndigt."
     noChange:
-      self: "&(prefix)&(yellow)Dein Leben hat sich nicht ver&(auml)ndert."
-      other: "&(prefix)&(yellow)%(player)s Leben hat sich nicht ver&(auml)ndert."
+      self: "&(yellow)Dein Leben hat sich nicht ver&(auml)ndert."
+      other: "&(yellow)%(player)s Leben hat sich nicht ver&(auml)ndert."
     help:
       general: "Zeigt Leben eines Spielers an bzw. &(auml)ndert es"
       get: "Zeige das Leben eines Spielers an"
@@ -150,20 +150,20 @@ deDE:
     display: "&(red)%(maxHealth) &(heart)"
     change:
       manual:
-        self: "&(prefix)&(gold)Dein maximales Leben &(auml)nderte sich von %(oldMaxHealth)&(gold) auf %(maxHealth)&(gold)!"
-        other: "&(prefix)&(gold)%(player)s maximales Leben &(auml)nderte sich von %(oldMaxHealth)&(gold) auf %(maxHealth)&(gold)!"
+        self: "&(gold)Dein maximales Leben &(auml)nderte sich von %(oldMaxHealth)&(gold) auf %(maxHealth)&(gold)!"
+        other: "&(gold)%(player)s maximales Leben &(auml)nderte sich von %(oldMaxHealth)&(gold) auf %(maxHealth)&(gold)!"
       levelUp:
-        self: "&(prefix)&(gold)Dein maximales Leben wurde erh&(ouml)ht, da du eine Stufe aufgestiegen bist!"
-        other: "&(prefix)&(gold)%(player)s maximales Leben &(auml)nderte sich von %(oldMaxHealth)&(gold) auf %(maxHealth)&(gold)!"
+        self: "&(gold)Dein maximales Leben wurde erh&(ouml)ht, da du eine Stufe aufgestiegen bist!"
+        other: "&(gold)%(player)s maximales Leben &(auml)nderte sich von %(oldMaxHealth)&(gold) auf %(maxHealth)&(gold)!"
       death:
-        self: "&(prefix)&(gold)Dein maximales Leben wurde zur&(uuml)ckgesetzt, da du gestorben bist."
-        other: "&(prefix)&(gold)%(player)s maximales Leben wurde von %(oldMaxHealth)&(gold) auf %(maxHealth)&(gold) zur&(uuml)ckgesetzt, da er gestorben ist."
+        self: "&(gold)Dein maximales Leben wurde zur&(uuml)ckgesetzt, da du gestorben bist."
+        other: "&(gold)%(player)s maximales Leben wurde von %(oldMaxHealth)&(gold) auf %(maxHealth)&(gold) zur&(uuml)ckgesetzt, da er gestorben ist."
       login:
-        self: "&(prefix)&(gold)Dein maximales Leben wurde zur&(uuml)ckgesetzt, da du den Server verlassen hast."
-        other: "&(prefix)&(gold)%(player)s maximales Leben wurde von %(oldMaxHealth)&(gold) auf %(maxHealth)&(gold) zur&(uuml)ckgesetzt, da er den Server verlassen hat."
+        self: "&(gold)Dein maximales Leben wurde zur&(uuml)ckgesetzt, da du den Server verlassen hast."
+        other: "&(gold)%(player)s maximales Leben wurde von %(oldMaxHealth)&(gold) auf %(maxHealth)&(gold) zur&(uuml)ckgesetzt, da er den Server verlassen hat."
     noChange:
-      self: "&(prefix)&(yellow)Dein maximales Leben hat sich nicht ver&(auml)ndert."
-      other: "&(prefix)&(yellow)%(player)s maximales Leben hat sich nicht ver&(auml)ndert."
+      self: "&(yellow)Dein maximales Leben hat sich nicht ver&(auml)ndert."
+      other: "&(yellow)%(player)s maximales Leben hat sich nicht ver&(auml)ndert."
     help:
       general: "Zeigt maximales Leben eines Spielers an bzw. &(auml)ndert es"
       get: "Zeige das maximale Leben eines Spielers an"
@@ -172,10 +172,10 @@ deDE:
       take: "Nehme maximales Leben von einem Spieler"
       reset: "Setzte das maximale Leben eines Spielers zur&(uuml)ck"
   plugin:
-    info: "&(prefix)&(yellow)Dieser Server verwendet &(red)LevelHearts&(yellow) v%(version) von %(creator)!"
+    info: "&(yellow)Dieser Server verwendet &(red)LevelHearts&(yellow) v%(version) von %(creator)!"
     website: "&(yellow)Webseite: &(gray)%(website)"
-    reload: "&(prefix)&(white)Plugin neugeladen ..."
-    updateAvailable: "&(prefix)&(yellow)Es ist ein Update verf&(uuml)gbar &(white)(%(updateName) f&(uuml)r %(updateGameVersion))&(yellow)!&(br)&(white)Download-Link: &(gray)%(updateLink)&(white)."
+    reload: "&(white)Plugin neugeladen ..."
+    updateAvailable: "&(yellow)Es ist ein Update verf&(uuml)gbar &(white)(%(updateName) f&(uuml)r %(updateGameVersion))&(yellow)!&(br)&(white)Download-Link: &(gray)%(updateLink)&(white)."
     help:
       reload: "L&(auml)d LevelHearts neu"
 ruRU:
@@ -199,25 +199,25 @@ ruRU:
       command: "&(yellow)/%(syntax)&(gray) - &(white)%(description)"
     info:
       self:
-        get: "&(prefix)&(gold)&(Ucyrl) &(tecyrl)&(iecyrl)&(becyrl)&(yacyrl) %(health)&(gold) &(icyrl)&(zecyrl) %(maxHealth)&(gold) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl)!"
+        get: "&(gold)&(Ucyrl) &(tecyrl)&(iecyrl)&(becyrl)&(yacyrl) %(health)&(gold) &(icyrl)&(zecyrl) %(maxHealth)&(gold) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl)!"
         increase: "&(yellow)&(VEcyrl)&(acyrl)&(shacyrl)&(iecyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(ucyrl)&(vecyrl)&(iecyrl)&(elcyrl)&(icyrl)&(checyrl)&(icyrl)&(tecyrl)&(escyrl)&(yacyrl) &(encyrl)&(acyrl) &(ucyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(encyrl)&(iecyrl) &(gold)%(maxHealthIncreaseLevel)&(yellow)!"
         noIncrease: "&(yellow)&(TEcyrl)&(yerucyrl) &(becyrl)&(ocyrl)&(elcyrl)&(signcyrls)&(shacyrl)&(iecyrl) &(encyrl)&(iecyrl) &(emcyrl)&(ocyrl)&(zhecyrl)&(iecyrl)&(shacyrl)&(signcyrls) &(ucyrl)&(vecyrl)&(iecyrl)&(elcyrl)&(icyrl)&(checyrl)&(icyrl)&(tecyrl)&(signcyrls) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl)."
       other:
-        get: "&(prefix)&(gold)%(player) &(icyrl)&(emcyrl)&(iecyrl)&(iecyrl)&(tecyrl) %(health)&(gold) &(icyrl)&(zecyrl) %(maxHealth)&(gold) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl)!"
+        get: "&(gold)%(player) &(icyrl)&(emcyrl)&(iecyrl)&(iecyrl)&(tecyrl) %(health)&(gold) &(icyrl)&(zecyrl) %(maxHealth)&(gold) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl)!"
         increase: "&(yellow)&(IEcyrl)&(ghecyrl)&(ocyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(ucyrl)&(vecyrl)&(iecyrl)&(elcyrl)&(icyrl)&(checyrl)&(icyrl)&(tecyrl)&(escyrl)&(yacyrl) &(encyrl)&(acyrl) &(ucyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(iecyrl)&(encyrl)&(signcyrls) &(gold)%(maxHealthIncreaseLevel)&(yellow)!"
         noIncrease: "&(yellow)&(Ocyrl)&(encyrl) &(becyrl)&(ocyrl)&(elcyrl)&(signcyrls)&(shacyrl)&(iecyrl) &(encyrl)&(iecyrl) &(emcyrl)&(ocyrl)&(zhecyrl)&(iecyrl)&(tecyrl) &(ucyrl)&(vecyrl)&(iecyrl)&(elcyrl)&(icyrl)&(checyrl)&(icyrl)&(tecyrl)&(signcyrls) &(escyrl)&(vecyrl)&(ocyrl)&(iecyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl)."
   health:
     display: "&(red)%(health) &(heart)"
     change:
       manual:
-        self: "&(prefix)&(gold)&(TEcyrl)&(vecyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls) &(escyrl) %(oldHealth)&(gold) &(encyrl)&(acyrl) %(health)&(gold)!"
-        other: "&(prefix)&(gold)%(player)&(acyrl)  &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls) &(escyrl) %(oldHealth)&(gold) &(encyrl)&(acyrl) %(health)&(gold)!"
+        self: "&(gold)&(TEcyrl)&(vecyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls) &(escyrl) %(oldHealth)&(gold) &(encyrl)&(acyrl) %(health)&(gold)!"
+        other: "&(gold)%(player)&(acyrl)  &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls) &(escyrl) %(oldHealth)&(gold) &(encyrl)&(acyrl) %(health)&(gold)!"
       restore:
         self: "null"
-        other: "&(prefix)&(gold)%(player)&(acyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(vecyrl)&(ocyrl)&(escyrl)&(escyrl)&(tecyrl)&(acyrl)&(encyrl)&(ocyrl)&(vecyrl)&(elcyrl)&(iecyrl)&(encyrl)&(ocyrl)."
+        other: "&(gold)%(player)&(acyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(vecyrl)&(ocyrl)&(escyrl)&(escyrl)&(tecyrl)&(acyrl)&(encyrl)&(ocyrl)&(vecyrl)&(elcyrl)&(iecyrl)&(encyrl)&(ocyrl)."
     noChange:
-      self: "&(prefix)&(yellow) &(TEcyrl)&(vecyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(encyrl)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls)."
-      other: "&(prefix)&(yellow)%(player)&(acyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(encyrl)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls)."
+      self: "&(yellow) &(TEcyrl)&(vecyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(encyrl)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls)."
+      other: "&(yellow)%(player)&(acyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(encyrl)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls)."
     help:
       general: #HEALTH_HELP_GENERAL#
       get: "&(Ocyrl)&(tecyrl)&(ocyrl)&(becyrl)&(ercyrl)&(acyrl)&(zhecyrl)&(iecyrl)&(encyrl)&(icyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl) &(icyrl)&(ghecyrl)&(ercyrl)&(ocyrl)&(kacyrl)&(acyrl)."
@@ -229,20 +229,20 @@ ruRU:
     display: "&(red)%(maxHealth) &(heart)"
     change:
       manual:
-        self: "&(prefix)&(gold)&(TEcyrl)&(vecyrl)&(ocyrl)&(yacyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(acyrl)&(yacyrl) &(zhecyrl)&(icyrl)&(zecyrl)&(encyrl)&(signcyrls) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(acyrl)&(escyrl)&(signcyrls) &(escyrl) %(oldMaxHealth)&(gold) &(encyrl)&(acyrl) %(maxHealth)&(gold)!"
-        other: "&(prefix)&(gold)%(player)&(acyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(acyrl)&(yacyrl) &(zhecyrl)&(icyrl)&(zecyrl)&(encyrl)&(signcyrls) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(acyrl)&(escyrl)&(signcyrls) &(escyrl) %(oldMaxHealth)&(gold) &(encyrl)&(acyrl) %(maxHealth)&(gold)!"
+        self: "&(gold)&(TEcyrl)&(vecyrl)&(ocyrl)&(yacyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(acyrl)&(yacyrl) &(zhecyrl)&(icyrl)&(zecyrl)&(encyrl)&(signcyrls) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(acyrl)&(escyrl)&(signcyrls) &(escyrl) %(oldMaxHealth)&(gold) &(encyrl)&(acyrl) %(maxHealth)&(gold)!"
+        other: "&(gold)%(player)&(acyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(acyrl)&(yacyrl) &(zhecyrl)&(icyrl)&(zecyrl)&(encyrl)&(signcyrls) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(acyrl)&(escyrl)&(signcyrls) &(escyrl) %(oldMaxHealth)&(gold) &(encyrl)&(acyrl) %(maxHealth)&(gold)!"
       levelUp:
-        self: "&(prefix)&(gold) &(TEcyrl)&(vecyrl)&(ocyrl)&(icyrls) &(ucyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(iecyrl)&(encyrl)&(signcyrls) &(pecyrl)&(ocyrl)&(vecyrl)&(yerucyrl)&(escyrl)&(icyrl)&(elcyrl)&(escyrl)&(yacyrl) &(icyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(ucyrl)&(vecyrl)&(iecyrl)&(elcyrl)&(icyrl)&(checyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls)."
-        other: "&(prefix)&(gold)(player)&(acyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls) &(escyrl) %(oldMaxHealth)&(gold) &(encyrl)&(acyrl) %(maxHealth)&(gold)!"
+        self: "&(gold) &(TEcyrl)&(vecyrl)&(ocyrl)&(icyrls) &(ucyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(iecyrl)&(encyrl)&(signcyrls) &(pecyrl)&(ocyrl)&(vecyrl)&(yerucyrl)&(escyrl)&(icyrl)&(elcyrl)&(escyrl)&(yacyrl) &(icyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(ucyrl)&(vecyrl)&(iecyrl)&(elcyrl)&(icyrl)&(checyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls)."
+        other: "&(gold)(player)&(acyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(ocyrl)&(escyrl)&(signcyrls) &(escyrl) %(oldMaxHealth)&(gold) &(encyrl)&(acyrl) %(maxHealth)&(gold)!"
       death:
-        self: "&(prefix)&(gold)&(TEcyrl)&(vecyrl)&(ocyrl)&(iecyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(ucyrl)&(decyrl)&(acyrl)&(elcyrl)&(iecyrl)&(encyrl)&(ocyrl), &(pecyrl)&(ocyrl)&(tecyrl)&(ocyrl)&(emcyrl)&(ucyrl) &(checyrl)&(tecyrl)&(ocyrl) &(ucyrl)&(emcyrl)&(iecyrl)&(ercyrl)."
-        other: "&(prefix)&(gold)(player)&(acyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(ucyrl)&(decyrl)&(acyrl)&(elcyrl)&(iecyrl)&(encyrl)&(ocyrl), &(pecyrl)&(ocyrl)&(tecyrl)&(ocyrl)&(emcyrl)&(ucyrl) &(checyrl)&(tecyrl)&(ocyrl) &(ucyrl)&(emcyrl)&(iecyrl)&(ercyrl)."
+        self: "&(gold)&(TEcyrl)&(vecyrl)&(ocyrl)&(iecyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(ucyrl)&(decyrl)&(acyrl)&(elcyrl)&(iecyrl)&(encyrl)&(ocyrl), &(pecyrl)&(ocyrl)&(tecyrl)&(ocyrl)&(emcyrl)&(ucyrl) &(checyrl)&(tecyrl)&(ocyrl) &(ucyrl)&(emcyrl)&(iecyrl)&(ercyrl)."
+        other: "&(gold)(player)&(acyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(ucyrl)&(decyrl)&(acyrl)&(elcyrl)&(iecyrl)&(encyrl)&(ocyrl), &(pecyrl)&(ocyrl)&(tecyrl)&(ocyrl)&(emcyrl)&(ucyrl) &(checyrl)&(tecyrl)&(ocyrl) &(ucyrl)&(emcyrl)&(iecyrl)&(ercyrl)."
       login:
-        self: "&(prefix)&(gold)&(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(ucyrl)&(decyrl)&(acyrl)&(elcyrl)&(iecyrl)&(encyrl)&(ocyrl), &(pecyrl)&(ocyrl)&(tecyrl)&(ocyrl)&(emcyrl)&(ucyrl) &(checyrl)&(tecyrl)&(ocyrl) &(pecyrl)&(ocyrl)&(kacyrl)&(icyrl)&(encyrl)&(ucyrl)&(elcyrl) &(escyrl)&(iecyrl)&(ercyrl)&(vecyrl)&(iecyrl)&(ercyrl)."
-        other: "&(prefix)&(gold)%(player)&(acyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(ucyrl)&(emcyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl) &(becyrl)&(yerucyrl)&(elcyrl) &(escyrl)&(becyrl)&(ercyrl)&(ocyrl)&(shacyrl)&(iecyrl)&(encyrl) &(escyrl) %(oldMaxHealth)&(gold) &(encyrl)&(acyrl) %(maxHealth)&(gold) &(pecyrl)&(ocyrl)&(tecyrl)&(ocyrl)&(emcyrl)&(ucyrl) &(checyrl)&(tecyrl)&(ocyrl) &(ocyrl)&(encyrl) &(pecyrl)&(ocyrl)&(kacyrl)&(icyrl)&(encyrl)&(ucyrl)&(elcyrl) &(escyrl)&(iecyrl)&(ercyrl)&(vecyrl)&(iecyrl)&(ercyrl)."
+        self: "&(gold)&(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(acyrl)&(elcyrl)&(signcyrls)&(encyrl)&(ocyrl)&(iecyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(iecyrl) &(ucyrl)&(decyrl)&(acyrl)&(elcyrl)&(iecyrl)&(encyrl)&(ocyrl), &(pecyrl)&(ocyrl)&(tecyrl)&(ocyrl)&(emcyrl)&(ucyrl) &(checyrl)&(tecyrl)&(ocyrl) &(pecyrl)&(ocyrl)&(kacyrl)&(icyrl)&(encyrl)&(ucyrl)&(elcyrl) &(escyrl)&(iecyrl)&(ercyrl)&(vecyrl)&(iecyrl)&(ercyrl)."
+        other: "&(gold)%(player)&(acyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(ucyrl)&(emcyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl) &(becyrl)&(yerucyrl)&(elcyrl) &(escyrl)&(becyrl)&(ercyrl)&(ocyrl)&(shacyrl)&(iecyrl)&(encyrl) &(escyrl) %(oldMaxHealth)&(gold) &(encyrl)&(acyrl) %(maxHealth)&(gold) &(pecyrl)&(ocyrl)&(tecyrl)&(ocyrl)&(emcyrl)&(ucyrl) &(checyrl)&(tecyrl)&(ocyrl) &(ocyrl)&(encyrl) &(pecyrl)&(ocyrl)&(kacyrl)&(icyrl)&(encyrl)&(ucyrl)&(elcyrl) &(escyrl)&(iecyrl)&(ercyrl)&(vecyrl)&(iecyrl)&(ercyrl)."
     noChange:
       self: "&(TEcyrl)&(vecyrl)&(ocyrl)&(icyrls) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(ucyrl)&(emcyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl) &(encyrl)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(escyrl)&(yacyrl)."
-      other: "&(prefix)&(yellow)%(player)&(acyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(ucyrl)&(emcyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl) &(encyrl)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(escyrl)&(yacyrl)."
+      other: "&(yellow)%(player)&(acyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(ucyrl)&(emcyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl) &(encyrl)&(iecyrl) &(icyrl)&(zecyrl)&(emcyrl)&(iecyrl)&(encyrl)&(icyrl)&(elcyrl)&(escyrl)&(yacyrl)."
     help:
       general: #MAXHEALTH_HELP_GENERAL#
       get: "&(Ocyrl)&(tecyrl)&(ocyrl)&(becyrl)&(ercyrl)&(acyrl)&(zhecyrl)&(iecyrl)&(encyrl)&(icyrl)&(iecyrl) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(ucyrl)&(emcyrl)&(acyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl) &(icyrl)&(ghecyrl)&(ercyrl)&(ocyrl)&(kacyrl)&(acyrl)."
@@ -251,8 +251,8 @@ ruRU:
       take: "&(VEcyrl)&(zecyrl)&(yacyrl)&(tecyrl)&(signcyrls) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(ucyrl)&(emcyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl) &(ucyrl) &(icyrl)&(ghecyrl)&(ercyrl)&(ocyrl)&(kacyrl)&(acyrl)."
       reset: "&(EScyrl)&(becyrl)&(ercyrl)&(ocyrl)&(escyrl)&(icyrl)&(tecyrl)&(signcyrls) &(emcyrl)&(acyrl)&(kacyrl)&(escyrl)&(icyrl)&(emcyrl)&(ucyrl)&(emcyrl) &(zecyrl)&(decyrl)&(ocyrl)&(ercyrl)&(ocyrl)&(vecyrl)&(signcyrls)&(yacyrl) &(icyrl)&(ghecyrl)&(ercyrl)&(ocyrl)&(kacyrl)&(acyrl)."
   plugin:
-    info: "&(prefix)&(yellow)&(Ecyrl)&(tecyrl)&(ocyrl)&(tecyrl) &(escyrl)&(iecyrl)&(ercyrl)&(vecyrl)&(iecyrl)&(ercyrl) &(zecyrl)&(acyrl)&(pecyrl)&(ucyrl)&(shchacyrl)&(iecyrl)&(encyrl) &(red)LevelHearts&(yellow) v%(version) &(ocyrl)&(tecyrl) %(creator)!"
+    info: "&(yellow)&(Ecyrl)&(tecyrl)&(ocyrl)&(tecyrl) &(escyrl)&(iecyrl)&(ercyrl)&(vecyrl)&(iecyrl)&(ercyrl) &(zecyrl)&(acyrl)&(pecyrl)&(ucyrl)&(shchacyrl)&(iecyrl)&(encyrl) &(red)LevelHearts&(yellow) v%(version) &(ocyrl)&(tecyrl) %(creator)!"
     website: "&(yellow)&(EScyrl)&(acyrl)&(icyrls)&(tecyrl): &(gray)%(website)"
-    reload: "&(prefix)&(white)&(PEcyrl)&(iecyrl)&(ercyrl)&(iecyrl)&(zecyrl)&(acyrl)&(ghecyrl)&(ercyrl)&(ucyrl)&(zecyrl)&(kacyrl)&(acyrl) &(pecyrl)&(elcyrl)&(acyrl)&(ghecyrl)&(icyrl)&(encyrl)&(acyrl) ..."
+    reload: "&(white)&(PEcyrl)&(iecyrl)&(ercyrl)&(iecyrl)&(zecyrl)&(acyrl)&(ghecyrl)&(ercyrl)&(ucyrl)&(zecyrl)&(kacyrl)&(acyrl) &(pecyrl)&(elcyrl)&(acyrl)&(ghecyrl)&(icyrl)&(encyrl)&(acyrl) ..."
     help:
       reload: "&(PEcyrl)&(iecyrl)&(ercyrl)&(iecyrl)&(zecyrl)&(acyrl)&(ghecyrl)&(ercyrl)&(ucyrl)&(zhecyrl)&(acyrl)&(iecyrl)&(tecyrl) &(pecyrl)&(elcyrl)&(acyrl)&(ghecyrl)&(icyrl)&(encyrl)"
