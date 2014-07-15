@@ -1,45 +1,1056 @@
-[16:56:40] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[16:56:40] [Server thread/INFO]: Loading properties
-[16:56:40] [Server thread/INFO]: Default game type: SURVIVAL
-[16:56:40] [Server thread/INFO]: Generating keypair
-[16:56:40] [Server thread/INFO]: Starting Minecraft server on 25.163.97.222:25565
-[16:56:41] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.3-b3020jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.3)
-[16:56:41] [Server thread/INFO]: [BKCommonLib] Loading BKCommonLib v1.57
-[16:56:41] [Server thread/INFO]: [NoLagg] Loading NoLagg v1.90.4
-[16:56:41] [Server thread/INFO]: [BKCommonLib] Enabling BKCommonLib v1.57
-[16:56:41] [Server thread/INFO]: [Configuration] File 'plugins\BKCommonLib\Localization.yml' has been generated
-[16:56:41] [Server thread/INFO]: [BKCommonLib] BKCommonLib is running on CraftBukkit (git-Bukkit-1.7.2-R0.3-b3020jnks) : v1_7_R1 (Minecraft 1.7.2)
-[16:56:41] [Server thread/INFO]: [BKCommonLib] [Network] Now using a PlayerConnection hook to provide Packet Listener and Monitor support
-[16:56:41] [Server thread/INFO]: [BKCommonLib] Our love is not permitted by the overlords. We must flee...
-[16:56:41] [Server thread/INFO]: BKCommonLib version 1.57 enabled! (0.067s)
-[16:56:41] [Server thread/INFO]: Preparing level "world"
-[16:56:41] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7263888012061124272)
-[16:56:41] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
-[16:56:41] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
-[16:56:41] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
-[16:56:41] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
-[16:56:41] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
-[16:56:41] [Thread-7/INFO]: ----- ------------------- -----
-[16:56:42] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7263888012061124272)
-[16:56:42] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7263888012061124272)
-[16:56:42] [Server thread/INFO]: [NoLagg] Enabling NoLagg v1.90.4
-[16:56:42] [Server thread/INFO]: [Configuration] File 'plugins\NoLagg\PermissionDefaults.yml' has been generated
-[16:56:42] [Server thread/INFO]: [Configuration] File 'plugins\NoLagg\Localization.yml' has been generated
-[16:56:42] [Server thread/INFO]: [NoLagg Saving] will write world data to all region files every 12000 ticks (10.0 minutes)
-[16:56:42] [Server thread/INFO]: [Configuration] File 'plugins\NoLagg\config.yml' has been generated
-[16:56:42] [Server thread/INFO]: NoLagg version 1.90.4 enabled! (0.203s)
-[16:56:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:56:42] [Server thread/INFO]: Done (1.398s)! For help, type "help" or "?"
-[16:56:54] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[16:56:54] [Server thread/INFO]: Stopping server
-[16:56:54] [Server thread/INFO]: [NoLagg] Disabling NoLagg v1.90.4
-[16:56:54] [Server thread/INFO]: NoLagg disabled!
-[16:56:54] [Server thread/INFO]: [BKCommonLib] Disabling BKCommonLib v1.57
-[16:56:54] [Server thread/INFO]: Saving players
-[16:56:54] [Server thread/INFO]: Saving worlds
-[16:56:54] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[16:56:55] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[16:56:55] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[16:56:55] [Thread-4/INFO]: Stopping server
-[16:56:55] [Thread-4/INFO]: Saving players
-[16:56:55] [Thread-4/INFO]: Saving worlds
+[18:28:36] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[18:28:36] [Server thread/INFO]: Loading properties
+[18:28:36] [Server thread/INFO]: Default game type: SURVIVAL
+[18:28:36] [Server thread/INFO]: Generating keypair
+[18:28:36] [Server thread/INFO]: Starting Minecraft server on 25.163.97.222:25565
+[18:28:36] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.3-b3020jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.3)
+[18:28:36] [Server thread/INFO]: [BKCommonLib] Loading BKCommonLib v1.57
+[18:28:36] [Server thread/INFO]: [BlockDisguise] Loading BlockDisguise v1.6
+[18:28:36] [Server thread/INFO]: [EchoPet] Loading EchoPet v2.3.3-b408
+[18:28:36] [Server thread/INFO]: [HatGUI] Loading HatGUI v0.1
+[18:28:36] [Server thread/INFO]: [NoLagg] Loading NoLagg v1.90.4
+[18:28:36] [Server thread/INFO]: [BKCommonLib] Enabling BKCommonLib v1.57
+[18:28:36] [Server thread/INFO]: [BKCommonLib] BKCommonLib is running on CraftBukkit (git-Bukkit-1.7.2-R0.3-b3020jnks) : v1_7_R1 (Minecraft 1.7.2)
+[18:28:37] [Server thread/INFO]: [BKCommonLib] [Network] Now using a PlayerConnection hook to provide Packet Listener and Monitor support
+[18:28:37] [Server thread/INFO]: [BKCommonLib] Now a plugin, a new server implementation tomorrow???
+[18:28:37] [Server thread/INFO]: BKCommonLib version 1.57 enabled! (0.11s)
+[18:28:37] [Server thread/INFO]: Preparing level "world"
+[18:28:37] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7263888012061124272)
+[18:28:37] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[18:28:37] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[18:28:37] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[18:28:37] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[18:28:37] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[18:28:37] [Thread-7/INFO]: ----- ------------------- -----
+[18:28:37] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7263888012061124272)
+[18:28:38] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7263888012061124272)
+[18:28:38] [Server thread/INFO]: [BlockDisguise] Enabling BlockDisguise v1.6
+[18:28:38] [Server thread/INFO]: [EchoPet] Enabling EchoPet v2.3.3-b408
+[18:28:38] [Server thread/INFO]: [HatGUI] Enabling HatGUI v0.1
+[18:28:38] [Server thread/INFO]: [HatGUI] |------------------------|
+[18:28:38] [Server thread/INFO]: [HatGUI] | HatGUI Enabled V0.1    |
+[18:28:38] [Server thread/INFO]: [HatGUI] |------------------------|
+[18:28:38] [Server thread/INFO]: [NoLagg] Enabling NoLagg v1.90.4
+[18:28:38] [Server thread/INFO]: [NoLagg Saving] will write world data to all region files every 12000 ticks (10.0 minutes)
+[18:28:38] [Server thread/INFO]: NoLagg version 1.90.4 enabled! (0.141s)
+[18:28:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:28:38] [Server thread/INFO]: Done (1.794s)! For help, type "help" or "?"
+[18:28:39] [pool-3-thread-1/INFO]: [EchoPet] [0;32;1m[INFO] [0;33;22mAn update is available: EchoPet v2.3.3[m
+[18:28:39] [pool-3-thread-1/INFO]: [EchoPet] [0;32;1m[INFO] [0;33;22mType /ecupdate to update.[m
+[18:28:47] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482dc50e44fa9556fe1d25921ed7
+[18:28:47] [Server thread/INFO]: thudog77[/25.163.97.222:52094] logged in with entity id 613 at ([world] 265.26648873319795, 71.0, 121.64740077067925)
+[18:28:54] [Server thread/INFO]: thudog77 issued server command: /pet remove
+[18:29:05] [User Authenticator #2/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
+[18:29:05] [Server thread/INFO]: huntmeister97[/25.2.59.2:55946] logged in with entity id 831 at ([world_the_end] 90.41583512468591, -278.28182691860536, 9.17570250500788)
+[18:29:06] [Server thread/INFO]: thudog77 issued server command: /bd
+[18:29:07] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to EchoPet v2.3.3-b408
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerList.moveToWorld(PlayerList.java:469) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerList.moveToWorld(PlayerList.java:408) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1138) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:250) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInClientCommand.a(SourceFile:50) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInClientCommand.handle(SourceFile:8) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at com.dsh105.echopet.compat.api.plugin.uuid.UUIDMigration.getIdentificationFor(UUIDMigration.java:38) ~[?:?]
+	at com.dsh105.echopet.api.PetManager.removePets(PetManager.java:310) ~[?:?]
+	at com.dsh105.echopet.api.PetManager.createPet(PetManager.java:111) ~[?:?]
+	at com.dsh105.echopet.api.PetManager.createPetFromFile(PetManager.java:229) ~[?:?]
+	at com.dsh105.echopet.api.PetManager.loadPets(PetManager.java:77) ~[?:?]
+	at com.dsh105.echopet.listeners.PetOwnerListener.onPlayerRespawn(PetOwnerListener.java:208) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 16 more
+[18:29:12] [Server thread/INFO]: thudog77 issued server command: /bd torch
+[18:29:31] [Server thread/INFO]: thudog77 issued server command: /bd grass
+[18:30:07] [Server thread/INFO]: huntmeister97 issued server command: /tp thudog77
+[18:30:07] [Server thread/INFO]: huntmeister97: Teleported huntmeister97 to thudog77[m
+[18:30:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2968ms behind, skipping 59 tick(s)
+[18:30:30] [Server thread/INFO]: huntmeister97 issued server command: /pet toggle
+[18:30:46] [Server thread/INFO]: huntmeister97 lost connection: Disconnected
+[18:30:46] [Server thread/INFO]: huntmeister97 left the game.
+[18:30:58] [User Authenticator #3/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
+[18:30:58] [Server thread/INFO]: huntmeister97[/25.2.59.2:56106] logged in with entity id 2480 at ([world] 244.59098217766208, 80.36144861999213, 109.9657412894768)
+[18:31:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2971ms behind, skipping 59 tick(s)
+[18:31:23] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[18:31:23] [Server thread/INFO]: thudog77 left the game.
+[18:31:28] [User Authenticator #4/INFO]: UUID of player thudog77 is 1242482dc50e44fa9556fe1d25921ed7
+[18:31:28] [Server thread/INFO]: thudog77[/25.163.97.222:52178] logged in with entity id 2667 at ([world] 251.67070604865916, 70.0, 73.14003895847613)
+[18:31:31] [Server thread/INFO]: thudog77 issued server command: /bd u
+[18:31:51] [Server thread/INFO]: huntmeister97 issued server command: /pet toggle
+[18:31:55] [Server thread/INFO]: thudog77 issued server command: /bd
+[18:32:05] [Server thread/INFO]: thudog77 issued server command: /bd huntmeister97 1
+[18:32:16] [Server thread/INFO]: thudog77 issued server command: /bd grass
+[18:32:34] [Server thread/INFO]: thudog77 issued server command: /bd grass
+[18:34:22] [Server thread/INFO]: huntmeister97 issued server command: /bd
+[18:34:37] [Server thread/INFO]: huntmeister97 issued server command: /bd dirt
+[18:34:47] [Server thread/INFO]: huntmeister97 issued server command: /bd grassblock
+[18:34:52] [Server thread/INFO]: huntmeister97 issued server command: /bd grassb
+[18:34:54] [Server thread/INFO]: huntmeister97 issued server command: /bd grass
+[18:35:32] [Server thread/INFO]: huntmeister97 lost connection: Disconnected
+[18:35:32] [Server thread/INFO]: huntmeister97 left the game.
+[18:35:40] [User Authenticator #5/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
+[18:35:40] [Server thread/INFO]: huntmeister97[/25.2.59.2:56734] logged in with entity id 5036 at ([world] 251.69999998807907, 70.0, 62.48137553870097)
+[18:35:48] [Server thread/INFO]: huntmeister97 issued server command: /pet toggle
+[18:35:57] [Server thread/INFO]: thudog77 issued server command: /bd string
+[18:36:00] [Server thread/INFO]: huntmeister97 issued server command: /bd grass
+[18:36:22] [Server thread/INFO]: thudog77 issued server command: /bd u
+[18:36:46] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[18:36:46] [Server thread/INFO]: thudog77 left the game.
+[18:36:50] [User Authenticator #6/INFO]: UUID of player thudog77 is 1242482dc50e44fa9556fe1d25921ed7
+[18:36:50] [Server thread/INFO]: thudog77[/25.163.97.222:52324] logged in with entity id 5888 at ([world] 253.14495162413874, 70.0, 74.44827398945371)
+[18:37:45] [Server thread/INFO]: huntmeister97 issued server command: /bd water
+[18:38:09] [Server thread/INFO]: huntmeister97 lost connection: Disconnected
+[18:38:09] [Server thread/INFO]: huntmeister97 left the game.
+[18:38:10] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:38:10] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:38:13] [User Authenticator #7/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
+[18:38:13] [Server thread/INFO]: huntmeister97[/25.2.59.2:57038] logged in with entity id 6871 at ([world] 248.300000011921, 68.0, 36.30893468037443)
+[18:38:23] [Server thread/INFO]: huntmeister97 issued server command: /pet remove
+[18:38:31] [Server thread/INFO]: huntmeister97 issued server command: /bd water
+[18:40:18] [Server thread/INFO]: huntmeister97 issued server command: /tp thudog77 huntmeister97
+[18:40:18] [Server thread/INFO]: huntmeister97: Teleported thudog77 to huntmeister97[m
+[18:40:34] [Server thread/INFO]: huntmeister97 issued server command: /bd lava
+[18:40:44] [Server thread/INFO]: thudog77 issued server command: /bd 33
+[18:40:51] [Server thread/INFO]: thudog77 issued server command: /bd 31
+[18:41:15] [Server thread/INFO]: huntmeister97 issued server command: /bd
+[18:43:57] [Server thread/INFO]: huntmeister97 issued server command: /bd netherrack
+[18:44:56] [Server thread/INFO]: thudog77 issued server command: /bd cow
+[18:44:59] [Server thread/INFO]: thudog77 issued server command: /bd
+[18:45:00] [Server thread/INFO]: huntmeister97 issued server command: /bd snow
+[18:45:48] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:45:48] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:46:03] [Server thread/INFO]: huntmeister97 issued server command: /bd snow
+[18:46:35] [Server thread/INFO]: thudog77 issued server command: /bd snow
+[18:47:53] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:47:53] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:49:27] [Server thread/INFO]: huntmeister97 issued server command: /bd leave
+[18:49:36] [Server thread/INFO]: huntmeister97 issued server command: /bd leaves
+[18:49:45] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:49:45] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:50:20] [Server thread/INFO]: huntmeister97 issued server command: /toggledownfall
+[18:50:20] [Server thread/INFO]: huntmeister97: Toggling downfall off for world 'world'[m
+[18:51:04] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:51:04] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:53:15] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:53:15] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:53:18] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:53:18] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:54:51] [Server thread/INFO]: thudog77 issued server command: /bd log
+[18:54:58] [Server thread/INFO]: huntmeister97 issued server command: /bd chicken
+[18:55:04] [Server thread/INFO]: huntmeister97 issued server command: /bd
+[18:55:16] [Server thread/INFO]: huntmeister97 issued server command: /bd thudog77 water
+[18:55:18] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:55:18] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:55:50] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:55:50] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:55:51] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:55:51] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[18:55:51] [Server thread/INFO]: huntmeister97 lost connection: Disconnected
+[18:55:51] [Server thread/INFO]: huntmeister97 left the game.
+[18:55:59] [User Authenticator #8/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
+[18:55:59] [Server thread/INFO]: huntmeister97[/25.2.59.2:58773] logged in with entity id 30235 at ([world] 61.15513373219527, 121.17210190765591, 47.10776962148904)
+[18:56:03] [Server thread/INFO]: huntmeister97 issued server command: /ci
+[18:56:07] [Server thread/INFO]: thudog77 issued server command: /bd water
+[18:56:45] [Server thread/INFO]: huntmeister97 issued server command: /bd thudog77 stone
+[18:57:02] [Server thread/INFO]: huntmeister97 issued server command: /bd thudog77 stone
+[18:57:31] [Server thread/INFO]: huntmeister97 issued server command: /bd thudog77 obsidian
+[18:57:32] [Server thread/INFO]: thudog77 issued server command: /bd stone
+[18:57:48] [Server thread/INFO]: huntmeister97 issued server command: /bd thudog77 lava
+[18:57:50] [Server thread/INFO]: thudog77 issued server command: /bd water
+[18:58:25] [Server thread/INFO]: huntmeister97 issued server command: /bd thudog77 lava
+[18:58:29] [Server thread/INFO]: thudog77 issued server command: /bd water
+[18:58:35] [Server thread/INFO]: huntmeister97 issued server command: /bd thudog77 lava
+[18:58:38] [Server thread/INFO]: thudog77 issued server command: /bd water
+[18:58:54] [Server thread/INFO]: huntmeister97 issued server command: /bd thudog77 lava
+[18:58:56] [Server thread/INFO]: thudog77 issued server command: /bd water
+[18:59:01] [Server thread/INFO]: huntmeister97 issued server command: /bd thudog77 lava
+[18:59:35] [Server thread/INFO]: thudog77 issued server command: /bd water
+[18:59:54] [Server thread/INFO]: huntmeister97 issued server command: /bd stone
+[19:00:23] [Server thread/INFO]: thudog77 issued server command: /bd water
+[19:00:28] [Server thread/INFO]: thudog77 issued server command: /bd stone
+[19:00:43] [Server thread/INFO]: huntmeister97 issued server command: /tp thudog77
+[19:00:43] [Server thread/INFO]: huntmeister97: Teleported huntmeister97 to thudog77[m
+[19:00:53] [Server thread/INFO]: thudog77 issued server command: /bd u
+[19:00:59] [Server thread/INFO]: thudog77 issued server command: /bd
+[19:01:02] [Server thread/INFO]: thudog77 issued server command: /bd
+[19:01:11] [Server thread/INFO]: huntmeister97 issued server command: /bd enderportal
+[19:01:19] [Server thread/INFO]: huntmeister97 issued server command: /bd ender portal
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor68.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor96.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor68.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor96.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor68.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor96.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClick(New.java:359) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor68.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:22] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to HatGUI v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:1483) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.bergerkiller.bukkit.common.internal.network.CommonPacketHandler$CommonPlayerConnection.a(CommonPacketHandler.java:292) [BKCommonLib-1.57.jar:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.a(SourceFile:23) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInSetCreativeSlot.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.NullPointerException
+	at dev.bukkit.hat.New.onInventoryClickHat(New.java:340) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor96.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 14 more
+[19:01:24] [Server thread/INFO]: huntmeister97 issued server command: /bd endportal
+[19:01:31] [Server thread/INFO]: huntmeister97 issued server command: /bd clay
+[19:01:40] [Server thread/INFO]: huntmeister97 issued server command: /bd thudog77
+[19:01:47] [Server thread/INFO]: huntmeister97 issued server command: /bd herobrine
+[19:01:58] [Server thread/INFO]: huntmeister97 issued server command: /bd 10
+[19:02:00] [Server thread/INFO]: thudog77 issued server command: /bd flower
+[19:02:04] [Server thread/INFO]: huntmeister97 issued server command: /bd 119
+[19:02:05] [Server thread/INFO]: thudog77 issued server command: /bd flower
+[19:02:11] [Server thread/INFO]: thudog77 issued server command: /bd flower
+[19:02:41] [Server thread/INFO]: huntmeister97 issued server command: /give huntmeister97 119
+[19:02:41] [Server thread/INFO]: huntmeister97: Gave huntmeister97 some 119 (ENDER_PORTAL)[m
+[19:02:58] [Server thread/INFO]: huntmeister97 lost connection: Disconnected
+[19:02:58] [Server thread/INFO]: huntmeister97 left the game.
+[19:03:08] [User Authenticator #9/INFO]: UUID of player huntmeister97 is 2d2d309be1c34d678e81b6a66ebee0fb
+[19:03:08] [Server thread/INFO]: huntmeister97[/25.2.59.2:59254] logged in with entity id 42951 at ([world] 38.107891724865844, 94.657788009202, 103.60892606802611)
+[19:03:28] [Server thread/INFO]: huntmeister97 issued server command: /tp thudog77
+[19:03:28] [Server thread/INFO]: huntmeister97: Teleported huntmeister97 to thudog77[m
+[19:03:53] [Server thread/INFO]: thudog77 issued server command: /bd lava
+[19:04:30] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[19:04:30] [Server thread/INFO]: thudog77 left the game.
+[19:04:35] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[19:04:35] [Server thread/INFO]: Stopping server
+[19:04:35] [Server thread/INFO]: [NoLagg] Disabling NoLagg v1.90.4
+[19:04:35] [Server thread/INFO]: NoLagg disabled!
+[19:04:35] [Server thread/INFO]: [HatGUI] Disabling HatGUI v0.1
+[19:04:35] [Server thread/INFO]: [HatGUI] |-------------------------|
+[19:04:35] [Server thread/INFO]: [HatGUI] | HatGUI Disabled V0.1    |
+[19:04:35] [Server thread/INFO]: [HatGUI] |-------------------------|
+[19:04:35] [Server thread/INFO]: [EchoPet] Disabling EchoPet v2.3.3-b408
+[19:04:35] [Server thread/INFO]: [BlockDisguise] Disabling BlockDisguise v1.6
+[19:04:35] [Server thread/INFO]: [BKCommonLib] Disabling BKCommonLib v1.57
+[19:04:35] [Server thread/INFO]: Saving players
+[19:04:35] [Server thread/INFO]: huntmeister97 lost connection: Server closed
+[19:04:35] [Server thread/INFO]: huntmeister97 left the game.
+[19:04:35] [Server thread/INFO]: Saving worlds
+[19:04:35] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:04:35] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[19:04:35] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[19:04:35] [Thread-4/INFO]: Stopping server
+[19:04:35] [Thread-4/INFO]: Saving players
+[19:04:35] [Thread-4/INFO]: Saving worlds
+[19:04:35] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
