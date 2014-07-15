@@ -70,9 +70,9 @@ enUS:
     display: "&(red)%(maxHealth) &(heart)"
     status: "&(white) - &(yellow)Current maximum health: %(maxHealth)&(yellow)."
     change:
-      levelUp: "&(grey)You leveled up and your maximum health has increased!"
-      death: "&(yellow)Your maximum health has been reset because you died."
-      login: "&(yellow)Your maximum health has been reset because you left the server."
+      levelUp: "&(gray)You leveled up and your maximum health has increased!"
+      death: "&(gray)Your maximum health has been reset because you died."
+      login: "&(gray)Your maximum health has been reset because you left the server."
       command:
         set: "&(yellow)Your maximum health has been set to %(maxHealth)&(yellow)."
         give: "&(yellow)Your maximum health has been increased by %(maxHealthChange)&(yellow)."
