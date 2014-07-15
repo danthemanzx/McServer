@@ -1,0 +1,56 @@
+[01:21:30] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[01:21:30] [Server thread/INFO]: Loading properties
+[01:21:30] [Server thread/INFO]: Default game type: SURVIVAL
+[01:21:30] [Server thread/INFO]: Generating keypair
+[01:21:30] [Server thread/INFO]: Starting Minecraft server on 25.163.97.222:25565
+[01:21:30] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.3-b3020jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.3)
+[01:21:30] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.0
+[01:21:30] [Server thread/INFO]: [BKCommonLib] Loading BKCommonLib v1.57
+[01:21:31] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.21.3
+[01:21:31] [Server thread/INFO]: [NoLagg] Loading NoLagg v1.90.4
+[01:21:31] [Server thread/INFO]: [BKCommonLib] Enabling BKCommonLib v1.57
+[01:21:31] [Server thread/INFO]: [BKCommonLib] BKCommonLib is running on CraftBukkit (git-Bukkit-1.7.2-R0.3-b3020jnks) : v1_7_R1 (Minecraft 1.7.2)
+[01:21:31] [Server thread/INFO]: [BKCommonLib] [Network] Now using a PlayerConnection hook to provide Packet Listener and Monitor support
+[01:21:31] [Server thread/INFO]: [BKCommonLib] Not enough wrappers. Needs more wrappers. Moooreee...
+[01:21:31] [Server thread/INFO]: BKCommonLib version 1.57 enabled! (0.055s)
+[01:21:31] [Server thread/INFO]: Preparing level "world"
+[01:21:31] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4693898451620475377)
+[01:21:31] [Thread-6/INFO]: ----- Bukkit Auto Updater -----
+[01:21:31] [Thread-6/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[01:21:31] [Thread-6/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[01:21:31] [Thread-6/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[01:21:31] [Thread-6/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[01:21:31] [Thread-6/INFO]: ----- ------------------- -----
+[01:21:32] [Server thread/INFO]: Preparing spawn area: 13%
+[01:21:33] [Server thread/INFO]: Preparing spawn area: 30%
+[01:21:34] [Server thread/INFO]: Preparing spawn area: 50%
+[01:21:35] [Server thread/INFO]: Preparing spawn area: 70%
+[01:21:36] [Server thread/INFO]: Preparing spawn area: 87%
+[01:21:37] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7263888012061124272)
+[01:21:37] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7263888012061124272)
+[01:21:37] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.0
+[01:21:37] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[01:21:37] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.21.3
+[01:21:37] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[01:21:37] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[01:21:37] [Server thread/INFO]: [NoLagg] Enabling NoLagg v1.90.4
+[01:21:38] [Server thread/INFO]: [NoLagg Saving] will write world data to all region files every 12000 ticks (10.0 minutes)
+[01:21:38] [Server thread/INFO]: NoLagg version 1.90.4 enabled! (0.138s)
+[01:21:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:21:38] [Server thread/INFO]: Done (7.019s)! For help, type "help" or "?"
+[01:21:38] [Thread-9/WARN]: [PermissionsEx] An update to PermissionsEx version 1.22.1 is available to download from http://dev.bukkit.org/bukkit-plugins/permissionsex/. Please review the changes and update as soon as possible!
+[01:21:42] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[01:21:42] [Server thread/INFO]: Stopping server
+[01:21:42] [Server thread/INFO]: [NoLagg] Disabling NoLagg v1.90.4
+[01:21:42] [Server thread/INFO]: NoLagg disabled!
+[01:21:42] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.21.3
+[01:21:42] [Server thread/INFO]: [BKCommonLib] Disabling BKCommonLib v1.57
+[01:21:42] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.2.0
+[01:21:42] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[01:21:42] [Server thread/INFO]: Saving players
+[01:21:42] [Server thread/INFO]: Saving worlds
+[01:21:42] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:21:43] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[01:21:43] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[01:21:43] [Thread-4/INFO]: Stopping server
+[01:21:43] [Thread-4/INFO]: Saving players
