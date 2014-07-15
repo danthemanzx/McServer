@@ -1,81 +1,54 @@
-[16:25:57] [Server thread/INFO]: Starting minecraft server version 1.7.9
-[16:25:57] [Server thread/INFO]: Loading properties
-[16:25:57] [Server thread/WARN]: server.properties does not exist
-[16:25:57] [Server thread/INFO]: Generating new properties file
-[16:25:57] [Server thread/INFO]: Default game type: SURVIVAL
-[16:25:57] [Server thread/INFO]: Generating keypair
-[16:25:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:25:57] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
-[16:25:58] [Server thread/WARN]: Failed to load user banlist: 
-java.io.FileNotFoundException: banned-players.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_51]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.7.0_51]
-	at net.minecraft.util.com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.JsonList.load(JsonList.java:147) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedPlayerList.y(SourceFile:99) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedPlayerList.<init>(SourceFile:25) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedServer.init(DedicatedServer.java:126) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:436) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-[16:25:58] [Server thread/WARN]: Failed to load ip banlist: 
-java.io.FileNotFoundException: banned-ips.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_51]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.7.0_51]
-	at net.minecraft.util.com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.JsonList.load(JsonList.java:147) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedPlayerList.x(SourceFile:91) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedPlayerList.<init>(SourceFile:27) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedServer.init(DedicatedServer.java:126) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:436) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-[16:25:58] [Server thread/WARN]: Failed to load operators list: 
-java.io.FileNotFoundException: ops.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_51]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.7.0_51]
-	at net.minecraft.util.com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.JsonList.load(JsonList.java:147) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedPlayerList.z(SourceFile:107) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedPlayerList.<init>(SourceFile:29) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedServer.init(DedicatedServer.java:126) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:436) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-[16:25:58] [Server thread/WARN]: Failed to load white-list: 
-java.io.FileNotFoundException: whitelist.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_51]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.7.0_51]
-	at net.minecraft.util.com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.JsonList.load(JsonList.java:147) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedPlayerList.B(SourceFile:123) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedPlayerList.<init>(SourceFile:30) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.DedicatedServer.init(DedicatedServer.java:126) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:436) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-[16:25:58] [Server thread/INFO]: Preparing level "world"
-[16:25:58] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2242879014378601830)
-[16:25:58] [Thread-6/INFO]: ----- Bukkit Auto Updater -----
-[16:25:58] [Thread-6/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
-[16:25:58] [Thread-6/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
-[16:25:58] [Thread-6/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
-[16:25:58] [Thread-6/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
-[16:25:58] [Thread-6/INFO]: ----- ------------------- -----
-[16:25:59] [Server thread/INFO]: Preparing spawn area: 13%
-[16:26:00] [Server thread/INFO]: Preparing spawn area: 35%
-[16:26:01] [Server thread/INFO]: Preparing spawn area: 56%
-[16:26:02] [Server thread/INFO]: Preparing spawn area: 80%
-[16:26:03] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2242879014378601830)
-[16:26:04] [Server thread/INFO]: Preparing spawn area: 31%
-[16:26:05] [Server thread/INFO]: Preparing spawn area: 58%
-[16:26:06] [Server thread/INFO]: Preparing spawn area: 99%
-[16:26:06] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2242879014378601830)
-[16:26:07] [Server thread/INFO]: Done (9.124s)! For help, type "help" or "?"
-[16:26:11] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[16:26:11] [Server thread/INFO]: Stopping server
-[16:26:11] [Server thread/INFO]: Saving players
-[16:26:11] [Server thread/INFO]: Saving worlds
-[16:26:11] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[16:26:12] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[16:26:13] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[16:26:13] [Thread-4/INFO]: Stopping server
-[16:26:13] [Thread-4/INFO]: Saving players
-[16:26:13] [Thread-4/INFO]: Saving worlds
-[16:26:13] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[16:45:54] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[16:45:54] [Server thread/INFO]: Loading properties
+[16:45:54] [Server thread/INFO]: Default game type: SURVIVAL
+[16:45:54] [Server thread/INFO]: Generating keypair
+[16:45:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:45:55] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[16:45:55] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
+[16:45:55] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.9) has not yet been tested! Proceed with caution.
+[16:45:55] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
+[16:45:55] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
+[16:45:55] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[16:45:55] [Server thread/INFO]: Preparing level "world"
+[16:45:55] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4637997469504870476)
+[16:45:55] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[16:45:55] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[16:45:55] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[16:45:55] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[16:45:55] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[16:45:55] [Thread-7/INFO]: ----- ------------------- -----
+[16:45:56] [Server thread/INFO]: Preparing spawn area: 14%
+[16:45:57] [Server thread/INFO]: Preparing spawn area: 38%
+[16:45:58] [Server thread/INFO]: Preparing spawn area: 62%
+[16:45:59] [Server thread/INFO]: Preparing spawn area: 85%
+[16:46:00] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4637997469504870476)
+[16:46:01] [Server thread/INFO]: Preparing spawn area: 28%
+[16:46:02] [Server thread/INFO]: Preparing spawn area: 59%
+[16:46:03] [Server thread/INFO]: Preparing spawn area: 97%
+[16:46:03] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
+[16:46:03] [Server thread/INFO]: [ServerListPlus] Loading core...
+[16:46:03] [Server thread/WARN]: [ServerListPlus] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
+[16:46:03] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[16:46:03] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[16:46:03] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[16:46:03] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
+[16:46:03] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
+[16:46:03] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
+[16:46:03] [Server thread/WARN]: [ServerListPlus] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
+[16:46:03] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
+[16:46:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:46:03] [Server thread/INFO]: Done (8.028s)! For help, type "help" or "?"
+[16:46:05] [Server thread/INFO]: [0;34;1m[ProtocolLib] The updater did not find an update, and nothing was downloaded.[m
+[16:46:13] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[16:46:13] [Server thread/INFO]: Stopping server
+[16:46:13] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.2.1
+[16:46:13] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 disabled.
+[16:46:13] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.4.0
+[16:46:13] [Server thread/INFO]: Saving players
+[16:46:13] [Server thread/INFO]: Saving worlds
+[16:46:13] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:46:14] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[16:46:14] [Thread-4/INFO]: Stopping server
+[16:46:14] [Thread-4/INFO]: Saving players
+[16:46:14] [Thread-4/INFO]: Saving worlds
+[16:46:14] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld

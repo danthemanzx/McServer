@@ -1,5 +1,5 @@
-[16:31:02] [Server thread/INFO]: Starting minecraft server version 14w02c
-[16:31:02] [Server console handler/ERROR]: Exception handling console input
+[16:57:34] [Server thread/INFO]: Starting minecraft server version 14w02c
+[16:57:34] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.7.0_51]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.7.0_51]
@@ -13,19 +13,26 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_51]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_51]
 	at md.run(SourceFile:68) [minecraft_server.14w02c.jar:?]
-[16:31:02] [Server thread/INFO]: Loading properties
-[16:31:02] [Server thread/INFO]: Default game type: SURVIVAL
-[16:31:02] [Server thread/INFO]: Generating keypair
-[16:31:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:31:03] [Server thread/INFO]: Preparing level "world"
-[16:31:03] [Server thread/INFO]: Preparing start region for level 0
-[16:31:03] [Server thread/INFO]: Done (0.519s)! For help, type "help" or "?"
-[16:31:08] [Server thread/INFO]: Stopping the server
-[16:31:08] [Server thread/INFO]: Stopping server
-[16:31:08] [Server thread/INFO]: Saving players
-[16:31:08] [Server thread/INFO]: Saving worlds
-[16:31:08] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[16:31:08] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[16:31:08] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[16:31:08] [Server Shutdown Thread/INFO]: Stopping server
-[16:31:08] [Server Shutdown Thread/INFO]: Saving players
+[16:57:34] [Server thread/INFO]: Loading properties
+[16:57:34] [Server thread/INFO]: Default game type: SURVIVAL
+[16:57:34] [Server thread/INFO]: Generating keypair
+[16:57:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:57:34] [Server thread/INFO]: Preparing level "world"
+[16:57:35] [Server thread/INFO]: Preparing start region for level 0
+[16:57:36] [Server thread/INFO]: Preparing spawn area: 11%
+[16:57:37] [Server thread/INFO]: Preparing spawn area: 24%
+[16:57:38] [Server thread/INFO]: Preparing spawn area: 38%
+[16:57:39] [Server thread/INFO]: Preparing spawn area: 51%
+[16:57:40] [Server thread/INFO]: Preparing spawn area: 64%
+[16:57:41] [Server thread/INFO]: Preparing spawn area: 76%
+[16:57:42] [Server thread/INFO]: Preparing spawn area: 89%
+[16:57:42] [Server thread/INFO]: Done (8.042s)! For help, type "help" or "?"
+[16:57:47] [Server thread/INFO]: Stopping the server
+[16:57:47] [Server thread/INFO]: Stopping server
+[16:57:47] [Server thread/INFO]: Saving players
+[16:57:47] [Server thread/INFO]: Saving worlds
+[16:57:47] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:57:47] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[16:57:47] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[16:57:49] [Server Shutdown Thread/INFO]: Stopping server
+[16:57:49] [Server Shutdown Thread/INFO]: Saving players
