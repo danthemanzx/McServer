@@ -1445,3 +1445,128 @@ git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9)
 2014-07-15 22:12:49 [INFO] [Bukkit] ServerListPlus v3.2.1 enabled.
 2014-07-15 22:13:04 [INFO] [Bukkit] Disabling ServerListPlus v3.2.1
 2014-07-15 22:13:04 [INFO] [Bukkit] ServerListPlus v3.2.1 disabled.
+---
+2014-07-16 15:17:29
+ServerListPlusBukkit v3.2.1
+git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9)
+---
+2014-07-16 15:17:30 [INFO] [Bukkit] Loading core...
+2014-07-16 15:17:30 [WARNING] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
+2014-07-16 15:17:30 [INFO] [Core] Reloading configuration...
+2014-07-16 15:17:30 [FINE] [Core] Configuration location: plugins\ServerListPlus\ServerListPlus.yml
+2014-07-16 15:17:30 [INFO] [Core] Loaded configuration: ServerStatusConf
+2014-07-16 15:17:30 [INFO] [Core] Loaded configuration: PluginConf
+2014-07-16 15:17:30 [INFO] [Core] Loaded configuration: CoreConf
+2014-07-16 15:17:30 [INFO] [Core] 3 configurations loaded.
+2014-07-16 15:17:30 [FINE] [Bukkit] Registered player tracking listener.
+2014-07-16 15:17:30 [FINE] [Core] Configuration successfully reloaded!
+2014-07-16 15:17:30 [FINE] [Core] Reloading profiles from: plugins\ServerListPlus\Profiles.json
+2014-07-16 15:17:30 [FINE] [Core] ServerListPlus profile is enabled!
+2014-07-16 15:17:30 [FINE] [Bukkit] Registered status packet listener.
+2014-07-16 15:17:30 [FINE] [Core] Creating new player tracking cache...
+2014-07-16 15:17:30 [FINE] [Core] Player tracking cache created.
+2014-07-16 15:17:30 [INFO] [Bukkit] Core was successfully loaded!
+2014-07-16 15:17:30 [WARNING] [Bukkit] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
+2014-07-16 15:17:30 [INFO] [Bukkit] ServerListPlus v3.2.1 enabled.
+2014-07-16 15:17:47 [INFO] [Bukkit] Disabling ServerListPlus v3.2.1
+2014-07-16 15:17:47 [INFO] [Bukkit] ServerListPlus v3.2.1 disabled.
+---
+2014-07-16 15:18:03
+ServerListPlusBukkit v3.2.1
+git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9)
+---
+2014-07-16 15:18:03 [INFO] [Bukkit] Loading core...
+2014-07-16 15:18:03 [WARNING] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
+2014-07-16 15:18:03 [INFO] [Core] Reloading configuration...
+2014-07-16 15:18:03 [FINE] [Core] Configuration location: plugins\ServerListPlus\ServerListPlus.yml
+2014-07-16 15:18:03 [INFO] [Core] Loaded configuration: ServerStatusConf
+2014-07-16 15:18:03 [INFO] [Core] Loaded configuration: PluginConf
+2014-07-16 15:18:03 [INFO] [Core] Loaded configuration: CoreConf
+2014-07-16 15:18:03 [INFO] [Core] 3 configurations loaded.
+2014-07-16 15:18:03 [FINE] [Bukkit] Registered player tracking listener.
+2014-07-16 15:18:03 [FINE] [Core] Configuration successfully reloaded!
+2014-07-16 15:18:03 [FINE] [Core] Reloading profiles from: plugins\ServerListPlus\Profiles.json
+2014-07-16 15:18:03 [FINE] [Core] ServerListPlus profile is enabled!
+2014-07-16 15:18:03 [FINE] [Bukkit] Registered status packet listener.
+2014-07-16 15:18:03 [FINE] [Core] Creating new player tracking cache...
+2014-07-16 15:18:03 [FINE] [Core] Player tracking cache created.
+2014-07-16 15:18:03 [INFO] [Bukkit] Core was successfully loaded!
+2014-07-16 15:18:03 [WARNING] [Bukkit] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
+2014-07-16 15:18:03 [INFO] [Bukkit] ServerListPlus v3.2.1 enabled.
+2014-07-16 15:20:38 [INFO] [Bukkit] Disabling ServerListPlus v3.2.1
+2014-07-16 15:20:38 [INFO] [Bukkit] ServerListPlus v3.2.1 disabled.
+---
+2014-07-16 15:21:40
+ServerListPlusBukkit v3.2.1
+git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9)
+---
+2014-07-16 15:21:40 [INFO] [Bukkit] Loading core...
+2014-07-16 15:21:40 [WARNING] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
+2014-07-16 15:21:40 [INFO] [Core] Reloading configuration...
+2014-07-16 15:21:40 [FINE] [Core] Configuration location: plugins\ServerListPlus\ServerListPlus.yml
+2014-07-16 15:21:40 [INFO] [Core] Loaded configuration: ServerStatusConf
+2014-07-16 15:21:40 [INFO] [Core] Loaded configuration: PluginConf
+2014-07-16 15:21:40 [INFO] [Core] Loaded configuration: CoreConf
+2014-07-16 15:21:40 [INFO] [Core] 3 configurations loaded.
+2014-07-16 15:21:40 [FINE] [Bukkit] Registered player tracking listener.
+2014-07-16 15:21:40 [FINE] [Core] Configuration successfully reloaded!
+2014-07-16 15:21:40 [FINE] [Core] Reloading profiles from: plugins\ServerListPlus\Profiles.json
+2014-07-16 15:21:40 [FINE] [Core] ServerListPlus profile is enabled!
+2014-07-16 15:21:40 [FINE] [Bukkit] Registered status packet listener.
+2014-07-16 15:21:40 [FINE] [Core] Creating new player tracking cache...
+2014-07-16 15:21:40 [FINE] [Core] Player tracking cache created.
+2014-07-16 15:21:40 [INFO] [Bukkit] Core was successfully loaded!
+2014-07-16 15:21:40 [WARNING] [Bukkit] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
+2014-07-16 15:21:40 [INFO] [Bukkit] ServerListPlus v3.2.1 enabled.
+2014-07-16 15:22:14 [INFO] [Bukkit] Disabling ServerListPlus v3.2.1
+2014-07-16 15:22:14 [INFO] [Bukkit] ServerListPlus v3.2.1 disabled.
+---
+2014-07-16 15:25:37
+ServerListPlusBukkit v3.2.1
+git-Bukkit-1.7.9-R0.1-b3084jnks (MC: 1.7.9)
+---
+2014-07-16 15:25:37 [INFO] [Bukkit] Loading core...
+2014-07-16 15:25:37 [WARNING] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
+2014-07-16 15:25:37 [INFO] [Core] Reloading configuration...
+2014-07-16 15:25:37 [FINE] [Core] Configuration location: plugins\ServerListPlus\ServerListPlus.yml
+2014-07-16 15:25:37 [INFO] [Core] Loaded configuration: ServerStatusConf
+2014-07-16 15:25:37 [INFO] [Core] Loaded configuration: PluginConf
+2014-07-16 15:25:37 [INFO] [Core] Loaded configuration: CoreConf
+2014-07-16 15:25:37 [INFO] [Core] 3 configurations loaded.
+2014-07-16 15:25:37 [FINE] [Bukkit] Registered player tracking listener.
+2014-07-16 15:25:37 [FINE] [Core] Configuration successfully reloaded!
+2014-07-16 15:25:37 [FINE] [Core] Reloading profiles from: plugins\ServerListPlus\Profiles.json
+2014-07-16 15:25:37 [FINE] [Core] ServerListPlus profile is enabled!
+2014-07-16 15:25:37 [FINE] [Bukkit] Registered status packet listener.
+2014-07-16 15:25:37 [FINE] [Core] Creating new player tracking cache...
+2014-07-16 15:25:37 [FINE] [Core] Player tracking cache created.
+2014-07-16 15:25:37 [INFO] [Bukkit] Core was successfully loaded!
+2014-07-16 15:25:37 [WARNING] [Bukkit] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
+2014-07-16 15:25:37 [INFO] [Bukkit] ServerListPlus v3.2.1 enabled.
+2014-07-16 15:26:10 [INFO] [Bukkit] Disabling ServerListPlus v3.2.1
+2014-07-16 15:26:10 [INFO] [Bukkit] ServerListPlus v3.2.1 disabled.
+---
+2014-07-16 15:41:04
+ServerListPlusBukkit v3.2.1
+git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9)
+---
+2014-07-16 15:41:04 [INFO] [Bukkit] Loading core...
+2014-07-16 15:41:04 [WARNING] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
+2014-07-16 15:41:04 [INFO] [Core] Reloading configuration...
+2014-07-16 15:41:04 [FINE] [Core] Configuration location: plugins\ServerListPlus\ServerListPlus.yml
+2014-07-16 15:41:04 [INFO] [Core] Loaded configuration: ServerStatusConf
+2014-07-16 15:41:04 [INFO] [Core] Loaded configuration: PluginConf
+2014-07-16 15:41:04 [INFO] [Core] Loaded configuration: CoreConf
+2014-07-16 15:41:04 [INFO] [Core] 3 configurations loaded.
+2014-07-16 15:41:04 [FINE] [Bukkit] Registered player tracking listener.
+2014-07-16 15:41:04 [FINE] [Core] Configuration successfully reloaded!
+2014-07-16 15:41:04 [FINE] [Core] Reloading profiles from: plugins\ServerListPlus\Profiles.json
+2014-07-16 15:41:04 [FINE] [Core] ServerListPlus profile is enabled!
+2014-07-16 15:41:04 [FINE] [Bukkit] Registered status packet listener.
+2014-07-16 15:41:04 [FINE] [Core] Creating new player tracking cache...
+2014-07-16 15:41:04 [FINE] [Core] Player tracking cache created.
+2014-07-16 15:41:04 [INFO] [Bukkit] Core was successfully loaded!
+2014-07-16 15:41:04 [WARNING] [Bukkit] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
+2014-07-16 15:41:04 [INFO] [Bukkit] ServerListPlus v3.2.1 enabled.
+2014-07-16 15:41:25 [INFO] [Bukkit] Disabling ServerListPlus v3.2.1
+2014-07-16 15:41:25 [INFO] [Bukkit] ServerListPlus v3.2.1 disabled.
