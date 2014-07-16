@@ -26,3 +26,13 @@ NoLagg enabled: 2014.07.15 1:24:49
 NoLagg disabled: 2014.07.15 1:37:43
 NoLagg enabled: 2014.07.15 1:42:52
 NoLagg disabled: 2014.07.15 1:46:37
+NoLagg enabled: 2014.07.15 20:47:26
+NoLagg disabled: 2014.07.15 20:48:01
+NoLagg enabled: 2014.07.15 20:49:11
+NoLagg disabled: 2014.07.15 20:52:24
+NoLagg enabled: 2014.07.15 20:57:25
+NoLagg disabled: 2014.07.15 21:03:13
+NoLagg enabled: 2014.07.15 21:03:31
+NoLagg disabled: 2014.07.15 21:03:35
+NoLagg enabled: 2014.07.15 21:04:34
+NoLagg disabled: 2014.07.15 21:04:54
