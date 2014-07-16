@@ -40,7 +40,7 @@ Default:
   Players:
     Hover:
     - |-
-      &b&lBetaSettings
+      &b&lBeta Settings
       &7whitelist=&btrue
       &7diffuculty=&b4
       &7allow-nether=&bfalse
@@ -69,7 +69,7 @@ Personalized:
   Players:
     Hover:
     - |-
-      &b&lBetaSettings
+      &b&lBeta Settings
       &7whitelist=&btrue
       &7diffuculty=&b4
       &7allow-nether=&bfalse
