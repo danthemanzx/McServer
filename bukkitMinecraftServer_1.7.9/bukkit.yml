@@ -14,7 +14,7 @@
 
 
 settings:
-  allow-end: true
+  allow-end: false
   warn-on-overload: true
   permissions-file: permissions.yml
   update-folder: update
@@ -22,9 +22,10 @@ settings:
   use-exact-login-location: false
   plugin-profiling: false
   connection-throttle: 4000
-  query-plugins: true
+  query-plugins: false
   deprecated-verbose: default
-  shutdown-message: Server closed
+  shutdown-message: Server Down For Maintenance
+  world-container: worlds
 spawn-limits:
   monsters: 70
   animals: 15
