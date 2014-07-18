@@ -1,4 +1,4 @@
 McServer
 ========
 
-Minecraft Server 1.7.9
+Minecraft Bukkit Server 1.7.9
