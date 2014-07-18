@@ -1,4 +1,4 @@
 McServer
 ========
 
-Minecraft Server 1.2.7
+Minecraft Server 1.7.9
