@@ -293,28 +293,28 @@ slotlock:
       commandUser: console
       command: null
 backpacks:
-#    1:
-#      slots:
-#        - 9
-#        - 10
-#        - 11
-#        - 12
-#        - 13
-#        - 14
-#        - 15
-#        - 16
-#        - 17
-#      recipe:
-#        - 0
-#        - 299
-#        - 0
-#        - 0
-#        - 54
-#        - 0
-#        - 0
-#        - 0
-#        - 0
-#      item: 303
-#      permission: backpack.small
-#      name: Small Backpack
-#      lore: This is a small backpack
+    1:
+      slots:
+        - 9
+        - 10
+        - 11
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 17
+      recipe:
+        - 0
+        - 299
+        - 0
+        - 0
+        - 54
+        - 0
+        - 0
+        - 0
+        - 0
+      item: 303
+      permission: backpack.small
+      name: Small Backpack
+      lore: This is a small backpack
