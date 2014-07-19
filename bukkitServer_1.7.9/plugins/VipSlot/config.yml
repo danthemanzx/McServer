@@ -1,0 +1,13 @@
+#
+#	Configuration file for VipSlot
+#
+
+# Player without permission will see that message when
+# server will be full (you can use colors and ^ as new line)
+full-message: '&cServer Full!^^&7You can get a &aVIP &7account^&7and always have a reserved slot!'
+
+# Kick player without perms from server when VIP join
+kick: true
+
+# Kicked player will see that message
+kick-message: '&7Kicked due to &aVIP &7slot reservation'

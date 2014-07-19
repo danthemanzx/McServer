@@ -1,0 +1,15 @@
+#Velocity threshold beyond which the damage takes effect:
+threshold: 0.6
+
+#Multiplication modifier for determining damage:
+multiplier: 10.0
+
+#Exponential effect to help negate air resistance:
+exponent: 1.1
+
+#So the equation to find damage at any velocity is:
+#  ((velocity - threshold) * multiplier) ^exponent, where velocity > threshold
+
+track-entities: true
+#This determines whether or not the damage holds true for entities
+#If this is causing lag, you can set it to false

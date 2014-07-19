@@ -1,0 +1,320 @@
+#Just put - <all> to enable all worlds.
+#slotlock contains the players slots you want locked (0-39).
+#(0-8) are the hot-bar, (9-35) are the inventory, and (36-39) is the armor.
+#item is the item locked in the slot, amount is the amount of items,
+#permission is the permission node you must have for the slots to be locked, 
+#name is the item name, and lore is the item lore.
+#The book section is for what book name in the book file will be used.
+#Command is the command that will be run, null for none.
+#Backpacks make it so you only start with the quick bar and armor bar.
+#Then when you craft the 3 backpack sizes, you unlock more slots.
+#Backpacks unlock the slots in their slots section.
+enabledworlds:
+  - world
+lockCreative: false
+slotlock:
+#    1:
+#      item: 387
+#      amount: 1
+#      permission: slot.one
+#      name: Book Of Info
+#      lore: This is a book of info.
+#      book: info
+#      commandUser: player
+#      command: info
+    9:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.9
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    10:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.10
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    11:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.11
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    12:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.12
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    13:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.13
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    14:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.14
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    15:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.15
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    16:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.16
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    17:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.17
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    18:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.18
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    19:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.19
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    20:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.20
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    21:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.21
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    22:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.22
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    23:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.23
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    24:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.24
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    25:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.25
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    26:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.26
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    27:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.27
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    28:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.28
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    29:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.29
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    30:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.30
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    31:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.31
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    32:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.32
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    33:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.33
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    34:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.34
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+    35:
+      item: 160
+      sub-type: 14
+      amount: 1
+      permission: slot.35
+      name: LockedSLot
+      lore: This is a locked slot
+      book: null
+      commandUser: console
+      command: null
+backpacks:
+    1:
+      slots:
+        - 9
+        - 10
+        - 11
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 17
+      recipe:
+        - 0
+        - 299
+        - 0
+        - 0
+        - 54
+        - 0
+        - 0
+        - 0
+        - 0
+      item: 303
+      permission: backpack.small
+      name: Small Backpack
+      lore: This is a small backpack
