@@ -1,0 +1,17 @@
+# Configuration file for hChat.
+enable: true
+check_for_updates: true
+update_if_available: false
+collect_data: true
+format:
+  name: true
+  chat: true
+  death: true
+  list: true
+  join: true
+  quit: true
+  channel_join: true
+  channel_quit: true
+  motd: true
+  me: true
+  tell: true
