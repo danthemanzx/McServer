@@ -1,61 +1,262 @@
-[21:21:15] [Server thread/INFO]: Starting minecraft server version 1.7.9
-[21:21:15] [Server thread/INFO]: Loading properties
-[21:21:15] [Server thread/INFO]: Default game type: SURVIVAL
-[21:21:15] [Server thread/INFO]: Generating keypair
-[21:21:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:21:15] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
-[21:21:15] [Server thread/INFO]: [VelocityFall] Loading VelocityFall vBeta 1.0
-[21:21:15] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[21:21:15] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.3
-[21:21:15] [Server thread/INFO]: [ItemSpawner] Loading ItemSpawner v0.2.1
-[21:21:15] [Server thread/INFO]: [Spawn-TP] Loading Spawn-TP v0.5
-[21:21:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
-[21:21:15] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
-[21:21:15] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
-[21:21:15] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.9) has not yet been tested! Proceed with caution.
-[21:21:15] [Thread-7/WARN]: Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
-[21:21:16] [Server thread/INFO]: [hChat] Loading hChat v1.4.4
-[21:21:16] [Server thread/INFO]: [VipSlot] Loading VipSlot v1.5
-[21:21:16] [Server thread/INFO]: [SimpleTeleportation] Loading SimpleTeleportation v1.0
-[21:21:16] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
-[21:21:16] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
-[21:21:16] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[21:21:16] [Server thread/INFO]: Preparing level "world"
-[21:21:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2990625635006699866)
-[21:21:16] [Thread-7/WARN]: Could not get latest artifact information: IOException
-[21:21:17] [Server thread/INFO]: [VelocityFall] Enabling VelocityFall vBeta 1.0
-[21:21:17] [Server thread/INFO]: [VelocityFall] Version Beta 1.0 is now enabled
-[21:21:17] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[21:21:17] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[21:21:17] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[21:21:17] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[21:21:17] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[21:21:17] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[21:21:17] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.3
-[21:21:17] [Server thread/INFO]: [LevelHearts] Enabled successfully.
-[21:21:17] [Server thread/INFO]: [ItemSpawner] Enabling ItemSpawner v0.2.1
-[21:21:17] [Server thread/INFO]: [Spawn-TP] Enabling Spawn-TP v0.5
-[21:21:17] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
-[21:21:17] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
-[21:21:17] [Server thread/INFO]: WEPIF: Updated config file
-[21:21:17] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[21:21:17] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.CraftBukkit_v1_7_R3 as the Bukkit adapter
-[21:21:17] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
-[21:21:17] [Server thread/INFO]: [hChat] Enabling hChat v1.4.4
-[21:21:17] [Server thread/INFO]: [VipSlot] Enabling VipSlot v1.5
-[21:21:17] [Server thread/INFO]: [VipSlot] Plugin activated
-[21:21:17] [Server thread/INFO]: [SimpleTeleportation] Enabling SimpleTeleportation v1.0
-[21:21:17] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
-[21:21:17] [Server thread/INFO]: [ServerListPlus] Loading core...
-[21:21:17] [Server thread/WARN]: [ServerListPlus] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
-[21:21:17] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
-[21:21:17] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
-[21:21:17] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
-[21:21:17] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
-[21:21:17] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
-[21:21:17] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
-[21:21:17] [Server thread/WARN]: [ServerListPlus] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
-[21:21:17] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
-[21:21:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:21:17] [Server thread/INFO]: Done (1.778s)! For help, type "help" or "?"
-[21:21:18] [pool-3-thread-3/INFO]: [hChat] An update is available: hChat v1.5.0
+[21:35:09] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[21:35:09] [Server thread/INFO]: Loading properties
+[21:35:09] [Server thread/INFO]: Default game type: SURVIVAL
+[21:35:09] [Server thread/INFO]: Generating keypair
+[21:35:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:35:10] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[21:35:10] [Server thread/INFO]: [VelocityFall] Loading VelocityFall vBeta 1.0
+[21:35:10] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[21:35:10] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.3
+[21:35:10] [Server thread/INFO]: [ItemSpawner] Loading ItemSpawner v0.2.1
+[21:35:10] [Server thread/INFO]: [Spawn-TP] Loading Spawn-TP v0.5
+[21:35:10] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[21:35:10] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
+[21:35:10] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
+[21:35:10] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.9) has not yet been tested! Proceed with caution.
+[21:35:10] [Thread-7/WARN]: Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
+[21:35:10] [Server thread/INFO]: [hChat] Loading hChat v1.4.4
+[21:35:10] [Server thread/INFO]: [VipSlot] Loading VipSlot v1.5
+[21:35:10] [Server thread/INFO]: [SimpleTeleportation] Loading SimpleTeleportation v1.0
+[21:35:10] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
+[21:35:10] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
+[21:35:10] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[21:35:10] [Server thread/INFO]: Preparing level "world"
+[21:35:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2990625635006699866)
+[21:35:11] [Thread-7/WARN]: Could not get latest artifact information: IOException
+[21:35:11] [Server thread/INFO]: [VelocityFall] Enabling VelocityFall vBeta 1.0
+[21:35:11] [Server thread/INFO]: [VelocityFall] Version Beta 1.0 is now enabled
+[21:35:11] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[21:35:11] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[21:35:11] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[21:35:11] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[21:35:11] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[21:35:11] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[21:35:11] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.3
+[21:35:11] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[21:35:11] [Server thread/INFO]: [ItemSpawner] Enabling ItemSpawner v0.2.1
+[21:35:11] [Server thread/INFO]: [Spawn-TP] Enabling Spawn-TP v0.5
+[21:35:11] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[21:35:12] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:35:12] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.CraftBukkit_v1_7_R3 as the Bukkit adapter
+[21:35:12] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
+[21:35:12] [Server thread/INFO]: [hChat] Enabling hChat v1.4.4
+[21:35:12] [Server thread/INFO]: [VipSlot] Enabling VipSlot v1.5
+[21:35:12] [Server thread/INFO]: [VipSlot] Plugin activated
+[21:35:12] [Server thread/INFO]: [SimpleTeleportation] Enabling SimpleTeleportation v1.0
+[21:35:12] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
+[21:35:12] [Server thread/INFO]: [ServerListPlus] Loading core...
+[21:35:12] [Server thread/WARN]: [ServerListPlus] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
+[21:35:12] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[21:35:12] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[21:35:12] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[21:35:12] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
+[21:35:12] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
+[21:35:12] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
+[21:35:12] [Server thread/WARN]: [ServerListPlus] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
+[21:35:12] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
+[21:35:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:35:12] [Server thread/INFO]: Done (1.744s)! For help, type "help" or "?"
+[21:35:13] [pool-3-thread-3/INFO]: [hChat] An update is available: hChat v1.5.0
+[21:35:23] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[21:35:23] [Server thread/INFO]: thudog77[/99.4.118.92:64523] logged in with entity id 329 at ([world] -134.14572199444964, 64.0, 248.46607903666327)
+[21:35:37] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[21:35:37] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
+[21:35:38] [User Authenticator #2/INFO]: UUID of player dime64 is 306b2e53-b75b-4116-8469-34d6a73099e9
+[21:35:38] [Server thread/INFO]: dime64[/192.168.1.8:56836] logged in with entity id 460 at ([world] -134.14572199444964, 64.0, 248.46607903666327)
+[21:35:43] [Server thread/INFO]: thudog77 issued server command: //help
+[21:35:47] [Server thread/INFO]: dime64 issued server command: /gamemode creative
+[21:35:47] [Server thread/INFO]: dime64: Set own game mode to CREATIVE mode[m
+[21:35:49] [Server thread/INFO]: thudog77 issued server command: //help 2
+[21:36:02] [Server thread/INFO]: thudog77 issued server command: //help 3
+[21:36:09] [Server thread/INFO]: thudog77 issued server command: //help 4
+[21:36:16] [Server thread/INFO]: thudog77 issued server command: //help 5
+[21:36:36] [Server thread/INFO]: thudog77 issued server command: //help 6
+[21:37:09] [Server thread/INFO]: thudog77 issued server command: //help 7
+[21:37:18] [Server thread/INFO]: thudog77 issued server command: //help 8
+[21:37:25] [Server thread/INFO]: thudog77 issued server command: //help 9
+[21:37:35] [Server thread/INFO]: thudog77 issued server command: //help 10
+[21:37:39] [Server thread/INFO]: thudog77 issued server command: //help 11
+[21:38:47] [Server thread/INFO]: thudog77 issued server command: //undo
+[21:38:51] [Server thread/INFO]: thudog77 issued server command: //set lava
+[21:38:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2259ms behind, skipping 45 tick(s)
+[21:38:53] [Server thread/INFO]: thudog77 issued server command: //undo
+[21:38:59] [Server thread/INFO]: thudog77 issued server command: //undo
+[21:39:13] [Server thread/INFO]: thudog77 issued server command: //set air
+[21:39:34] [Server thread/INFO]: thudog77 issued server command: //set grass
+[21:39:38] [Server thread/INFO]: thudog77 issued server command: //wand
+[21:40:16] [Server thread/INFO]: thudog77 issued server command: //help 12
+[21:40:20] [Server thread/INFO]: dime64 issued server command: /set time day
+[21:40:24] [Server thread/INFO]: thudog77 issued server command: //help 13
+[21:40:27] [Server thread/INFO]: dime64 issued server command: /time set day
+[21:40:27] [Server thread/INFO]: dime64: Set time to 0[m
+[21:40:33] [Server thread/INFO]: thudog77 issued server command: //help 14
+[21:40:47] [Server thread/INFO]: thudog77 issued server command: //wand
+[21:40:53] [Server thread/INFO]: thudog77 issued server command: /wool
+[21:40:55] [Server thread/INFO]: thudog77 issued server command: /tool
+[21:41:18] [Server thread/INFO]: thudog77 issued server command: /tool 2
+[21:41:31] [Server thread/INFO]: thudog77 issued server command: /tool
+[21:41:36] [Server thread/INFO]: thudog77 issued server command: //help 15
+[21:41:39] [Server thread/INFO]: thudog77 issued server command: //help 14
+[21:41:44] [Server thread/INFO]: thudog77 issued server command: //help 13
+[21:41:51] [Server thread/INFO]: thudog77 issued server command: //help 12
+[21:42:05] [Server thread/INFO]: thudog77 issued server command: //smooth
+[21:42:09] [Server thread/INFO]: thudog77 issued server command: //smooth
+[21:42:12] [Server thread/INFO]: thudog77 issued server command: //smooth
+[21:42:22] [Server thread/INFO]: thudog77 issued server command: //brush
+[21:42:36] [Server thread/INFO]: thudog77 issued server command: /brush smooth
+[21:45:10] [Server thread/INFO]: dime64 issued server command: /setspawn
+[21:45:17] [Server thread/INFO]: dime64 issued server command: /setspawn
+[21:48:48] [Server thread/INFO]: thudog77 issued server command: //shpere
+[21:48:53] [Server thread/INFO]: thudog77 issued server command: //sphere
+[21:48:56] [Server thread/INFO]: thudog77 issued server command: //sphere air 9
+[21:49:02] [Server thread/INFO]: thudog77 issued server command: //undo
+[21:49:20] [Server thread/INFO]: thudog77 issued server command: //sphere air 6
+[21:49:30] [Server thread/INFO]: thudog77 issued server command: //undo
+[21:49:45] [Server thread/INFO]: thudog77 issued server command: //hsphere 1 6
+[21:49:55] [Server thread/INFO]: thudog77 issued server command: //undo
+[21:50:23] [Server thread/INFO]: thudog77 issued server command: //hsphere planks 6
+[21:50:48] [Server thread/INFO]: thudog77 issued server command: //undo
+[21:50:59] [Server thread/INFO]: thudog77 issued server command: //hsphere planks 6
+[21:51:01] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[21:51:01] [Server thread/INFO]: thudog77: Set time to 0[m
+[21:51:54] [Server thread/INFO]: thudog77 issued server command: //sphere air 5
+[22:00:42] [Server thread/INFO]: thudog77 issued server command: /lag
+[22:01:42] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[22:01:42] [Server thread/INFO]: thudog77: Set time to 0[m
+[22:03:35] [Server thread/INFO]: thudog77 issued server command: //wand
+[22:04:18] [Server thread/INFO]: thudog77 issued server command: //cut
+[22:04:21] [User Authenticator #3/INFO]: UUID of player CamperNoCamping is b4e78b74-85b9-4cf7-a689-88f866626754
+[22:04:21] [Server thread/INFO]: Disconnecting net.minecraft.util.com.mojang.authlib.GameProfile@43b131db[id=b4e78b74-85b9-4cf7-a689-88f866626754,name=CamperNoCamping,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@6f2657b5]},legacy=false] (/104.48.73.33:57710): You are not white-listed on this server!
+[22:04:21] [Server thread/INFO]: net.minecraft.util.com.mojang.authlib.GameProfile@43b131db[id=b4e78b74-85b9-4cf7-a689-88f866626754,name=CamperNoCamping,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@6f2657b5]},legacy=false] (/104.48.73.33:57710) lost connection: You are not white-listed on this server!
+[22:04:23] [Server thread/INFO]: thudog77 issued server command: //undo
+[22:04:34] [Server thread/INFO]: thudog77 issued server command: /whitelist campernocamping
+[22:04:39] [Server thread/INFO]: thudog77 issued server command: /whitelist add campernocamping
+[22:04:39] [Server thread/INFO]: thudog77: Added campernocamping to white-list[m
+[22:04:45] [User Authenticator #4/INFO]: UUID of player CamperNoCamping is b4e78b74-85b9-4cf7-a689-88f866626754
+[22:04:45] [Server thread/INFO]: CamperNoCamping[/104.48.73.33:57713] logged in with entity id 26041 at ([world] -127.11415472470699, 65.0, 296.97999949181656)
+[22:05:06] [Server thread/INFO]: CamperNoCamping issued server command: /set gamemode 1
+[22:05:07] [Server thread/INFO]: thudog77 issued server command: //cut
+[22:05:11] [Server thread/INFO]: CamperNoCamping issued server command: /set gamemode 0
+[22:05:13] [Server thread/INFO]: CamperNoCamping issued server command: /help
+[22:05:13] [Server thread/INFO]: thudog77 issued server command: //set dirt
+[22:05:20] [Server thread/INFO]: CamperNoCamping issued server command: /nick Campy
+[22:05:21] [Netty IO #2/INFO]: thudog77[m: ./gamemode 1[m
+[22:05:24] [Server thread/INFO]: CamperNoCamping issued server command: /gamemode 1
+[22:05:26] [Server thread/INFO]: dime64 issued server command: /op CampernoCamping
+[22:05:26] [Server thread/INFO]: dime64: Opped CampernoCamping[m
+[22:05:30] [Server thread/INFO]: CamperNoCamping issued server command: /gamemode 1
+[22:05:30] [Server thread/INFO]: CamperNoCamping: Set own game mode to CREATIVE mode[m
+[22:05:37] [Server thread/INFO]: thudog77 issued server command: //set air
+[22:05:42] [Server thread/INFO]: thudog77 issued server command: //
+[22:05:44] [Server thread/INFO]: thudog77 issued server command: //set air
+[22:05:46] [Server thread/INFO]: thudog77 issued server command: //
+[22:05:48] [Server thread/INFO]: CamperNoCamping has just earned the achievement [Taking Inventory]
+[22:07:05] [Server thread/INFO]: thudog77 issued server command: //paste
+[22:07:15] [Server thread/INFO]: thudog77 issued server command: //undo
+[22:07:18] [Server thread/INFO]: thudog77 issued server command: //paste
+[22:07:25] [Server thread/INFO]: thudog77 issued server command: //undo
+[22:07:28] [Server thread/INFO]: thudog77 issued server command: //paste
+[22:07:49] [Server thread/INFO]: thudog77 issued server command: //undo
+[22:09:30] [Server thread/INFO]: thudog77 issued server command: //killall
+[22:09:34] [Server thread/INFO]: thudog77 issued server command: /killall
+[22:09:39] [Server thread/INFO]: thudog77 issued server command: // kill
+[22:09:42] [Server thread/INFO]: thudog77 issued server command: //kill
+[22:09:44] [Server thread/INFO]: thudog77 issued server command: //
+[22:12:13] [Server thread/INFO]: CamperNoCamping issued server command: /time set 0
+[22:12:13] [Server thread/INFO]: CamperNoCamping: Set time to 0[m
+[22:12:37] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[22:12:37] [Server thread/INFO]: thudog77 left the game.
+[22:17:39] [Server thread/INFO]: CamperNoCamping issued server command: /time set night
+[22:17:39] [Server thread/INFO]: CamperNoCamping: Set time to 12500[m
+[22:17:58] [Server thread/INFO]: CamperNoCamping issued server command: /time set 0
+[22:17:58] [Server thread/INFO]: CamperNoCamping: Set time to 0[m
+[22:18:01] [Server thread/INFO]: CamperNoCamping issued server command: /remove rain
+[22:18:07] [Server thread/INFO]: CamperNoCamping issued server command: /weather none
+[22:18:09] [Server thread/INFO]: CamperNoCamping issued server command: /help 2
+[22:18:14] [Server thread/INFO]: CamperNoCamping issued server command: /help 3
+[22:18:16] [Server thread/INFO]: CamperNoCamping issued server command: /help 4
+[22:18:20] [Server thread/INFO]: CamperNoCamping issued server command: /help 5
+[22:20:04] [Server thread/INFO]: CamperNoCamping issued server command: /time set 0
+[22:20:04] [Server thread/INFO]: CamperNoCamping: Set time to 0[m
+[22:20:07] [Server thread/INFO]: CamperNoCamping issued server command: /time set day
+[22:20:07] [Server thread/INFO]: CamperNoCamping: Set time to 0[m
+[22:28:04] [Server thread/INFO]: dime64 issued server command: /kill all
+[22:28:04] [Server thread/INFO]: dime64 died
+[22:31:02] [Server thread/INFO]: CamperNoCamping issued server command: /time set 0
+[22:31:02] [Server thread/INFO]: CamperNoCamping: Set time to 0[m
+[22:36:58] [Server thread/INFO]: dime64 issued server command: /help worldedit
+[22:37:05] [Server thread/INFO]: dime64 issued server command: //;
+[22:37:50] [Server thread/INFO]: dime64 issued server command: /help wolrd edit
+[22:37:56] [Server thread/INFO]: dime64 issued server command: /help worldedit
+[22:38:03] [Server thread/INFO]: dime64 issued server command: /help worldedit 2
+[22:38:18] [Server thread/INFO]: dime64 issued server command: /helpworldedit 3
+[22:38:27] [Server thread/INFO]: dime64 issued server command: /help worldedit 4
+[22:38:44] [Server thread/INFO]: dime64 issued server command: /help worldedit 4
+[22:38:50] [Server thread/INFO]: dime64 issued server command: /help worldedit 5
+[22:39:07] [Server thread/INFO]: dime64 issued server command: /help worldedit 6
+[22:39:27] [Server thread/INFO]: dime64 issued server command: /help worldedit 7
+[22:39:43] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:40:19] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:40:56] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:41:27] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:41:49] [Server thread/INFO]: CamperNoCamping issued server command: /time set 0
+[22:41:49] [Server thread/INFO]: CamperNoCamping: Set time to 0[m
+[22:41:49] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:42:19] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:43:31] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:43:48] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:43:57] [Server thread/INFO]: CamperNoCamping lost connection: Disconnected
+[22:43:57] [Server thread/INFO]: CamperNoCamping left the game.
+[22:44:32] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:44:52] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:45:11] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:45:25] [Server thread/INFO]: dime64 issued server command: //set coblestone
+[22:45:48] [Server thread/INFO]: dime64 issued server command: //set coblestone wall
+[22:45:55] [Server thread/INFO]: dime64 issued server command: //set coblestonewall
+[22:46:11] [Server thread/INFO]: dime64 issued server command: //set coblestonewall
+[22:46:28] [Server thread/INFO]: dime64 issued server command: //set coblestonewall
+[22:46:39] [Server thread/INFO]: dime64 issued server command: //set coblestonewall
+[22:46:58] [Server thread/INFO]: dime64 issued server command: //set coblestonewall
+[22:55:28] [Server thread/INFO]: dime64 issued server command: //copy
+[22:55:35] [Server thread/INFO]: dime64 issued server command: //paste
+[22:55:40] [Server thread/INFO]: dime64 issued server command: //undo
+[22:55:45] [Server thread/INFO]: dime64 issued server command: //paste
+[22:55:49] [Server thread/INFO]: dime64 issued server command: //undo
+[22:55:55] [Server thread/INFO]: dime64 issued server command: //paste
+[22:56:00] [Server thread/INFO]: dime64 issued server command: //undo
+[22:56:10] [Server thread/INFO]: dime64 issued server command: //paste
+[22:56:13] [Server thread/INFO]: dime64 issued server command: //undo
+[22:56:18] [Server thread/INFO]: dime64 issued server command: //paste
+[22:56:23] [Server thread/INFO]: dime64 issued server command: //undo
+[22:56:31] [Server thread/INFO]: dime64 issued server command: //paste
+[22:56:34] [Server thread/INFO]: dime64 issued server command: //undo
+[22:56:40] [Server thread/INFO]: dime64 issued server command: //paste
+[22:56:44] [Server thread/INFO]: dime64 issued server command: //undo
+[22:56:49] [Server thread/INFO]: dime64 issued server command: //paste
+[22:56:52] [Server thread/INFO]: dime64 issued server command: //undo
+[23:05:16] [Server thread/INFO]: dime64 issued server command: /setspawn
+[23:13:41] [Server thread/INFO]: dime64 lost connection: Disconnected
+[23:13:41] [Server thread/INFO]: dime64 left the game.
+[23:13:49] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[23:13:49] [Server thread/INFO]: Stopping server
+[23:13:49] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.2.1
+[23:13:49] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 disabled.
+[23:13:49] [Server thread/INFO]: [SimpleTeleportation] Disabling SimpleTeleportation v1.0
+[23:13:49] [Server thread/INFO]: [VipSlot] Disabling VipSlot v1.5
+[23:13:49] [Server thread/INFO]: [hChat] Disabling hChat v1.4.4
+[23:13:49] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.4.0
+[23:13:49] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
+[23:13:49] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.0;3342-78f975b9
+[23:13:49] [Server thread/INFO]: [Spawn-TP] Disabling Spawn-TP v0.5
+[23:13:49] [Server thread/INFO]: [ItemSpawner] Disabling ItemSpawner v0.2.1
+[23:13:49] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.2.3
+[23:13:49] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[23:13:49] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[23:13:49] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[23:13:49] [Server thread/INFO]: [VelocityFall] Disabling VelocityFall vBeta 1.0
+[23:13:49] [Server thread/INFO]: Saving players
+[23:13:49] [Server thread/INFO]: Saving worlds
+[23:13:49] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:13:49] [Thread-4/INFO]: Stopping server
+[23:13:49] [Thread-4/INFO]: Saving players
+[23:13:49] [Thread-4/INFO]: Saving worlds
