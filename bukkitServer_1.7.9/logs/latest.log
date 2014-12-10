@@ -1,74 +1,304 @@
-[18:28:04] [Server thread/INFO]: Starting minecraft server version 1.7.9
-[18:28:04] [Server thread/INFO]: Loading properties
-[18:28:04] [Server thread/INFO]: Default game type: SURVIVAL
-[18:28:04] [Server thread/INFO]: Generating keypair
-[18:28:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:28:04] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
-[18:28:05] [Thread-7/WARN]: Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
-[18:28:05] [Server thread/INFO]: [VelocityFall] Loading VelocityFall vBeta 1.0
-[18:28:05] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[18:28:05] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.3
-[18:28:05] [Server thread/INFO]: [ItemSpawner] Loading ItemSpawner v0.2.1
-[18:28:05] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.1
-[18:28:05] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
-[18:28:05] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
-[18:28:05] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.9) has not yet been tested! Proceed with caution.
-[18:28:05] [Thread-7/WARN]: Could not get latest artifact information: IOException
-[18:28:05] [Server thread/INFO]: [hChat] Loading hChat v1.4.4
-[18:28:05] [Server thread/INFO]: [VipSlot] Loading VipSlot v1.5
-[18:28:05] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
-[18:28:05] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
-[18:28:05] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[18:28:05] [Server thread/INFO]: Preparing level "world"
-[18:28:05] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2990625635006699866)
-[18:28:06] [Server thread/INFO]: [VelocityFall] Enabling VelocityFall vBeta 1.0
-[18:28:06] [Server thread/INFO]: [VelocityFall] Version Beta 1.0 is now enabled
-[18:28:06] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[18:28:06] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[18:28:06] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[18:28:06] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[18:28:06] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[18:28:06] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[18:28:06] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.3
-[18:28:06] [Server thread/INFO]: [LevelHearts] Enabled successfully.
-[18:28:06] [Server thread/INFO]: [ItemSpawner] Enabling ItemSpawner v0.2.1
-[18:28:06] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.1
-[18:28:06] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
-[18:28:06] [Server thread/INFO]: [hChat] Enabling hChat v1.4.4
-[18:28:06] [Server thread/INFO]: [VipSlot] Enabling VipSlot v1.5
-[18:28:06] [Server thread/INFO]: [VipSlot] Plugin activated
-[18:28:06] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
-[18:28:06] [Server thread/INFO]: [ServerListPlus] Loading core...
-[18:28:06] [Server thread/WARN]: [ServerListPlus] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
-[18:28:06] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
-[18:28:06] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
-[18:28:06] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
-[18:28:06] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
-[18:28:06] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
-[18:28:06] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
-[18:28:06] [Server thread/WARN]: [ServerListPlus] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
-[18:28:06] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
-[18:28:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:28:06] [Server thread/INFO]: Done (1.122s)! For help, type "help" or "?"
-[18:28:07] [pool-3-thread-3/INFO]: [hChat] An update is available: hChat v1.5.0
-[18:28:18] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[18:28:18] [Server thread/INFO]: Stopping server
-[18:28:18] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.2.1
-[18:28:18] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 disabled.
-[18:28:18] [Server thread/INFO]: [VipSlot] Disabling VipSlot v1.5
-[18:28:18] [Server thread/INFO]: [hChat] Disabling hChat v1.4.4
-[18:28:18] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.4.0
-[18:28:18] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
-[18:28:18] [Server thread/INFO]: [SlotLock] Disabling SlotLock v2.1
-[18:28:18] [Server thread/INFO]: [ItemSpawner] Disabling ItemSpawner v0.2.1
-[18:28:18] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.2.3
-[18:28:18] [Server thread/INFO]: [LevelHearts] Disabled successfully.
-[18:28:18] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
-[18:28:18] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
-[18:28:18] [Server thread/INFO]: [VelocityFall] Disabling VelocityFall vBeta 1.0
-[18:28:18] [Server thread/INFO]: Saving players
-[18:28:18] [Server thread/INFO]: Saving worlds
-[18:28:18] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[18:28:19] [Thread-4/INFO]: Stopping server
-[18:28:19] [Thread-4/INFO]: Saving players
-[18:28:19] [Thread-4/INFO]: Saving worlds
+[20:40:39] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[20:40:39] [Server thread/INFO]: Loading properties
+[20:40:39] [Server thread/INFO]: Default game type: SURVIVAL
+[20:40:39] [Server thread/INFO]: Generating keypair
+[20:40:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:40:39] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[20:40:39] [Server thread/INFO]: [VelocityFall] Loading VelocityFall vBeta 1.0
+[20:40:39] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[20:40:39] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.3
+[20:40:39] [Server thread/INFO]: [ItemSpawner] Loading ItemSpawner v0.2.1
+[20:40:39] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.1
+[20:40:39] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
+[20:40:39] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
+[20:40:39] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.9) has not yet been tested! Proceed with caution.
+[20:40:39] [Thread-7/WARN]: Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
+[20:40:39] [Server thread/INFO]: [hChat] Loading hChat v1.4.4
+[20:40:39] [Server thread/INFO]: [VipSlot] Loading VipSlot v1.5
+[20:40:39] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
+[20:40:39] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
+[20:40:40] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[20:40:40] [Server thread/INFO]: Preparing level "world"
+[20:40:40] [Thread-7/WARN]: Could not get latest artifact information: IOException
+[20:40:40] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2990625635006699866)
+[20:40:40] [Server thread/INFO]: [VelocityFall] Enabling VelocityFall vBeta 1.0
+[20:40:40] [Server thread/INFO]: [VelocityFall] Version Beta 1.0 is now enabled
+[20:40:40] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[20:40:40] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[20:40:40] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[20:40:40] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[20:40:40] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[20:40:40] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[20:40:40] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.3
+[20:40:41] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[20:40:41] [Server thread/INFO]: [ItemSpawner] Enabling ItemSpawner v0.2.1
+[20:40:41] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.1
+[20:40:41] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
+[20:40:41] [Server thread/INFO]: [hChat] Enabling hChat v1.4.4
+[20:40:41] [Server thread/INFO]: [VipSlot] Enabling VipSlot v1.5
+[20:40:41] [Server thread/INFO]: [VipSlot] Plugin activated
+[20:40:41] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
+[20:40:41] [Server thread/INFO]: [ServerListPlus] Loading core...
+[20:40:41] [Server thread/WARN]: [ServerListPlus] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
+[20:40:41] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[20:40:41] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[20:40:41] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[20:40:41] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
+[20:40:41] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
+[20:40:41] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
+[20:40:41] [Server thread/WARN]: [ServerListPlus] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
+[20:40:41] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
+[20:40:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:40:41] [Server thread/INFO]: Done (1.210s)! For help, type "help" or "?"
+[20:40:42] [pool-3-thread-3/INFO]: [hChat] An update is available: hChat v1.5.0
+[20:42:06] [User Authenticator #1/INFO]: UUID of player dime64 is 306b2e53-b75b-4116-8469-34d6a73099e9
+[20:42:06] [Server thread/INFO]: Disconnecting net.minecraft.util.com.mojang.authlib.GameProfile@81edaec[id=306b2e53-b75b-4116-8469-34d6a73099e9,name=dime64,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@7460b901]},legacy=false] (/192.168.1.8:51041): You are not white-listed on this server!
+[20:42:07] [Server thread/INFO]: net.minecraft.util.com.mojang.authlib.GameProfile@81edaec[id=306b2e53-b75b-4116-8469-34d6a73099e9,name=dime64,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@7460b901]},legacy=false] (/192.168.1.8:51041) lost connection: You are not white-listed on this server!
+[20:42:20] [Server thread/INFO]: [0;31;1mCorrect command usage:
+/whitelist (add|remove) <player>
+/whitelist (on|off|list|reload)[m
+[20:42:44] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[20:43:00] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[20:43:06] [User Authenticator #2/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[20:43:06] [Server thread/WARN]: java.lang.NullPointerException
+[20:43:06] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
+[20:43:06] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
+[20:43:06] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:369)
+[20:43:06] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerTeleport(slot_lock.java:96)
+[20:43:06] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:43:06] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[20:43:06] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[20:43:06] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[20:43:06] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:292)
+[20:43:06] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[20:43:06] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501)
+[20:43:06] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:431)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerList.a(PlayerList.java:140)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.LoginListener.c(LoginListener.java:76)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.LoginListener.a(LoginListener.java:42)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.NetworkManager.a(NetworkManager.java:160)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ServerConnection.c(SourceFile:134)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:667)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
+[20:43:06] [Server thread/INFO]: thudog77[/99.4.118.92:60438] logged in with entity id 301 at ([world] -35.22286096282052, 68.0, 115.62566700643187)
+[20:43:06] [Server thread/WARN]: java.lang.NullPointerException
+[20:43:06] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
+[20:43:06] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
+[20:43:06] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:369)
+[20:43:06] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock$2.run(slot_lock.java:88)
+[20:43:06] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_7_R3.scheduler.CraftTask.run(CraftTask.java:53)
+[20:43:06] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_7_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:600)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
+[20:43:06] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
+[20:43:07] [Server thread/WARN]: java.lang.NullPointerException
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:369)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerTeleport(slot_lock.java:96)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:292)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:431)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:397)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInFlying.a(SourceFile:137)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInPosition.handle(SourceFile:63)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.NetworkManager.a(NetworkManager.java:157)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ServerConnection.c(SourceFile:134)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:667)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
+[20:43:07] [Server thread/WARN]: java.lang.NullPointerException
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:369)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerTeleport(slot_lock.java:96)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:292)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:431)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:397)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInFlying.a(SourceFile:137)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInPosition.handle(SourceFile:63)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.NetworkManager.a(NetworkManager.java:157)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ServerConnection.c(SourceFile:134)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:667)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
+[20:43:07] [Server thread/WARN]: java.lang.NullPointerException
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:369)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerTeleport(slot_lock.java:96)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:292)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:431)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:397)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInFlying.a(SourceFile:137)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInPosition.handle(SourceFile:63)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.NetworkManager.a(NetworkManager.java:157)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ServerConnection.c(SourceFile:134)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:667)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
+[20:43:07] [Server thread/WARN]: java.lang.NullPointerException
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:369)
+[20:43:07] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerTeleport(slot_lock.java:96)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:292)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501)
+[20:43:07] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:431)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:397)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInFlying.a(SourceFile:137)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInPosition.handle(SourceFile:63)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.NetworkManager.a(NetworkManager.java:157)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ServerConnection.c(SourceFile:134)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:667)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
+[20:43:07] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
+[20:43:08] [Server thread/WARN]: java.lang.NullPointerException
+[20:43:08] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
+[20:43:08] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
+[20:43:08] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:369)
+[20:43:08] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerTeleport(slot_lock.java:96)
+[20:43:08] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:43:08] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[20:43:08] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[20:43:08] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[20:43:08] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:292)
+[20:43:08] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[20:43:08] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501)
+[20:43:08] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486)
+[20:43:08] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:431)
+[20:43:08] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:397)
+[20:43:08] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInFlying.a(SourceFile:137)
+[20:43:08] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInPosition.handle(SourceFile:63)
+[20:43:08] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.NetworkManager.a(NetworkManager.java:157)
+[20:43:08] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ServerConnection.c(SourceFile:134)
+[20:43:08] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:667)
+[20:43:08] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
+[20:43:08] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
+[20:43:08] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
+[20:43:08] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
+[20:43:18] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[20:43:19] [Server thread/INFO]: thudog77 issued server command: /whitelist add dot64
+[20:43:19] [Server thread/INFO]: thudog77: Added dot64 to white-list[m
+[20:43:23] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[20:43:23] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
+[20:43:31] [Server thread/INFO]: thudog77 issued server command: /whitelist add dime64
+[20:43:31] [Server thread/INFO]: thudog77: Added dime64 to white-list[m
+[20:43:46] [User Authenticator #3/INFO]: UUID of player dime64 is 306b2e53-b75b-4116-8469-34d6a73099e9
+[20:43:46] [Server thread/WARN]: java.lang.NullPointerException
+[20:43:46] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
+[20:43:46] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
+[20:43:46] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.clearOld(slot_lock.java:325)
+[20:43:46] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:354)
+[20:43:46] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerTeleport(slot_lock.java:96)
+[20:43:46] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:43:46] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[20:43:46] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[20:43:46] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[20:43:46] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:292)
+[20:43:46] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[20:43:46] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501)
+[20:43:46] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:431)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerList.a(PlayerList.java:140)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.LoginListener.c(LoginListener.java:76)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.LoginListener.a(LoginListener.java:42)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.NetworkManager.a(NetworkManager.java:160)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ServerConnection.c(SourceFile:134)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:667)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
+[20:43:46] [Server thread/INFO]: dime64[/192.168.1.8:51220] logged in with entity id 873 at ([world] -131.5, 64.0, 254.5)
+[20:43:46] [Server thread/WARN]: java.lang.NullPointerException
+[20:43:46] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
+[20:43:46] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
+[20:43:46] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.clearOld(slot_lock.java:325)
+[20:43:46] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:354)
+[20:43:46] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock$2.run(slot_lock.java:88)
+[20:43:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_7_R3.scheduler.CraftTask.run(CraftTask.java:53)
+[20:43:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_7_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:600)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
+[20:43:46] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
+[20:44:03] [Server thread/INFO]: thudog77 issued server command: /tp thudog77 dime64
+[20:44:03] [Server thread/INFO]: thudog77: Teleported thudog77 to dime64[m
+[20:44:23] [Server thread/INFO]: dime64 issued server command: /creative
+[20:44:24] [Server thread/INFO]: thudog77 issued server command: /plugins
+[20:44:29] [Server thread/INFO]: dime64 issued server command: /gamemode creative
+[20:44:41] [Server thread/INFO]: CONSOLE: Opped dime64[m
+[20:44:58] [Server thread/INFO]: dime64 issued server command: /gamemode dime64
+[20:45:04] [Server thread/INFO]: dime64 issued server command: /gamemode creative
+[20:45:04] [Server thread/INFO]: dime64: Set own game mode to CREATIVE mode[m
+[20:45:09] [Server thread/INFO]: dime64 issued server command: /help
+[20:45:47] [Server thread/INFO]: dime64 has just earned the achievement [Taking Inventory]
+[20:45:53] [Server thread/INFO]: dime64 issued server command: /spawn
+[20:46:19] [Server thread/INFO]: dime64 lost connection: Disconnected
+[20:46:19] [Server thread/INFO]: dime64 left the game.
+[20:46:22] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[20:46:22] [Server thread/INFO]: thudog77 left the game.
+[20:46:29] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[20:46:29] [Server thread/INFO]: Stopping server
+[20:46:29] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.2.1
+[20:46:29] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 disabled.
+[20:46:29] [Server thread/INFO]: [VipSlot] Disabling VipSlot v1.5
+[20:46:29] [Server thread/INFO]: [hChat] Disabling hChat v1.4.4
+[20:46:29] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.4.0
+[20:46:29] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
+[20:46:29] [Server thread/INFO]: [SlotLock] Disabling SlotLock v2.1
+[20:46:29] [Server thread/INFO]: [ItemSpawner] Disabling ItemSpawner v0.2.1
+[20:46:29] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.2.3
+[20:46:29] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[20:46:29] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[20:46:29] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[20:46:29] [Server thread/INFO]: [VelocityFall] Disabling VelocityFall vBeta 1.0
+[20:46:29] [Server thread/INFO]: Saving players
+[20:46:29] [Server thread/INFO]: Saving worlds
+[20:46:29] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[20:46:30] [Thread-4/INFO]: Stopping server
+[20:46:30] [Thread-4/INFO]: Saving players
+[20:46:30] [Thread-4/INFO]: Saving worlds
+[20:46:30] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
