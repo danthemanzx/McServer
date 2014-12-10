@@ -1,125 +1,61 @@
-[21:02:03] [Server thread/INFO]: Starting minecraft server version 1.7.9
-[21:02:03] [Server thread/INFO]: Loading properties
-[21:02:03] [Server thread/INFO]: Default game type: SURVIVAL
-[21:02:03] [Server thread/INFO]: Generating keypair
-[21:02:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:02:03] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
-[21:02:03] [Server thread/INFO]: [VelocityFall] Loading VelocityFall vBeta 1.0
-[21:02:03] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[21:02:03] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.3
-[21:02:03] [Server thread/INFO]: [ItemSpawner] Loading ItemSpawner v0.2.1
-[21:02:03] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.1
-[21:02:03] [Server thread/INFO]: [Spawn-TP] Loading Spawn-TP v0.5
-[21:02:03] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
-[21:02:03] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
-[21:02:03] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.9) has not yet been tested! Proceed with caution.
-[21:02:03] [Thread-7/WARN]: Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
-[21:02:04] [Server thread/INFO]: [hChat] Loading hChat v1.4.4
-[21:02:04] [Server thread/INFO]: [VipSlot] Loading VipSlot v1.5
-[21:02:04] [Server thread/INFO]: [SimpleTeleportation] Loading SimpleTeleportation v1.0
-[21:02:04] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
-[21:02:04] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
-[21:02:04] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[21:02:04] [Server thread/INFO]: Preparing level "world"
-[21:02:04] [Thread-7/WARN]: Could not get latest artifact information: IOException
-[21:02:04] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2990625635006699866)
-[21:02:05] [Server thread/INFO]: [VelocityFall] Enabling VelocityFall vBeta 1.0
-[21:02:05] [Server thread/INFO]: [VelocityFall] Version Beta 1.0 is now enabled
-[21:02:05] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[21:02:05] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[21:02:05] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[21:02:05] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[21:02:05] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[21:02:05] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[21:02:05] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.3
-[21:02:05] [Server thread/INFO]: [LevelHearts] Enabled successfully.
-[21:02:05] [Server thread/INFO]: [ItemSpawner] Enabling ItemSpawner v0.2.1
-[21:02:05] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.1
-[21:02:05] [Server thread/INFO]: [Spawn-TP] Enabling Spawn-TP v0.5
-[21:02:05] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
-[21:02:05] [Server thread/INFO]: [hChat] Enabling hChat v1.4.4
-[21:02:05] [Server thread/INFO]: [VipSlot] Enabling VipSlot v1.5
-[21:02:05] [Server thread/INFO]: [VipSlot] Plugin activated
-[21:02:05] [Server thread/INFO]: [SimpleTeleportation] Enabling SimpleTeleportation v1.0
-[21:02:05] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
-[21:02:05] [Server thread/INFO]: [ServerListPlus] Loading core...
-[21:02:05] [Server thread/WARN]: [ServerListPlus] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
-[21:02:05] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
-[21:02:05] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
-[21:02:05] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
-[21:02:05] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
-[21:02:05] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
-[21:02:05] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
-[21:02:05] [Server thread/WARN]: [ServerListPlus] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
-[21:02:05] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
-[21:02:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:02:05] [Server thread/INFO]: Done (1.341s)! For help, type "help" or "?"
-[21:02:06] [pool-3-thread-3/INFO]: [hChat] An update is available: hChat v1.5.0
-[21:02:12] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
-[21:02:12] [Server thread/WARN]: java.lang.NullPointerException
-[21:02:12] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
-[21:02:12] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
-[21:02:13] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:369)
-[21:02:13] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerTeleport(slot_lock.java:96)
-[21:02:13] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[21:02:13] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-[21:02:13] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-[21:02:13] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
-[21:02:13] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:292)
-[21:02:13] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
-[21:02:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501)
-[21:02:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:431)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerList.a(PlayerList.java:140)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.LoginListener.c(LoginListener.java:76)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.LoginListener.a(LoginListener.java:42)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.NetworkManager.a(NetworkManager.java:160)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ServerConnection.c(SourceFile:134)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:667)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
-[21:02:13] [Server thread/INFO]: thudog77[/99.4.118.92:62403] logged in with entity id 345 at ([world] -198.2534343693881, 72.43679458247539, 320.66348114498277)
-[21:02:13] [Server thread/WARN]: java.lang.NullPointerException
-[21:02:13] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
-[21:02:13] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
-[21:02:13] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:369)
-[21:02:13] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock$2.run(slot_lock.java:88)
-[21:02:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_7_R3.scheduler.CraftTask.run(CraftTask.java:53)
-[21:02:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_7_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:600)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
-[21:02:13] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
-[21:02:14] [Server thread/INFO]: thudog77 fell from a high place
-[21:02:15] [Server thread/WARN]: java.lang.NullPointerException
-[21:02:15] [Server thread/WARN]: 	at org.bukkit.ChatColor.translateAlternateColorCodes(ChatColor.java:206)
-[21:02:15] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.writeBook(slot_lock.java:477)
-[21:02:15] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:369)
-[21:02:15] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerRespawn(slot_lock.java:80)
-[21:02:15] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[21:02:15] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-[21:02:15] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-[21:02:15] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
-[21:02:15] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:292)
-[21:02:15] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
-[21:02:15] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501)
-[21:02:15] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerList.moveToWorld(PlayerList.java:494)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerList.moveToWorld(PlayerList.java:433)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PlayerConnection.a(PlayerConnection.java:1141)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInClientCommand.a(SourceFile:50)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.PacketPlayInClientCommand.handle(SourceFile:8)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.NetworkManager.a(NetworkManager.java:157)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ServerConnection.c(SourceFile:134)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.v(MinecraftServer.java:667)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.DedicatedServer.v(DedicatedServer.java:260)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.u(MinecraftServer.java:558)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:469)
-[21:02:15] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628)
-[21:02:18] [Server thread/INFO]: thudog77 issued server command: /setspawn
-[21:02:22] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[21:02:22] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
-[21:02:30] [Server thread/INFO]: thudog77 issued server command: /spawn
+[21:21:15] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[21:21:15] [Server thread/INFO]: Loading properties
+[21:21:15] [Server thread/INFO]: Default game type: SURVIVAL
+[21:21:15] [Server thread/INFO]: Generating keypair
+[21:21:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:21:15] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[21:21:15] [Server thread/INFO]: [VelocityFall] Loading VelocityFall vBeta 1.0
+[21:21:15] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[21:21:15] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.3
+[21:21:15] [Server thread/INFO]: [ItemSpawner] Loading ItemSpawner v0.2.1
+[21:21:15] [Server thread/INFO]: [Spawn-TP] Loading Spawn-TP v0.5
+[21:21:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[21:21:15] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
+[21:21:15] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
+[21:21:15] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.9) has not yet been tested! Proceed with caution.
+[21:21:15] [Thread-7/WARN]: Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
+[21:21:16] [Server thread/INFO]: [hChat] Loading hChat v1.4.4
+[21:21:16] [Server thread/INFO]: [VipSlot] Loading VipSlot v1.5
+[21:21:16] [Server thread/INFO]: [SimpleTeleportation] Loading SimpleTeleportation v1.0
+[21:21:16] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
+[21:21:16] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
+[21:21:16] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[21:21:16] [Server thread/INFO]: Preparing level "world"
+[21:21:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2990625635006699866)
+[21:21:16] [Thread-7/WARN]: Could not get latest artifact information: IOException
+[21:21:17] [Server thread/INFO]: [VelocityFall] Enabling VelocityFall vBeta 1.0
+[21:21:17] [Server thread/INFO]: [VelocityFall] Version Beta 1.0 is now enabled
+[21:21:17] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[21:21:17] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[21:21:17] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[21:21:17] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[21:21:17] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[21:21:17] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[21:21:17] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.3
+[21:21:17] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[21:21:17] [Server thread/INFO]: [ItemSpawner] Enabling ItemSpawner v0.2.1
+[21:21:17] [Server thread/INFO]: [Spawn-TP] Enabling Spawn-TP v0.5
+[21:21:17] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[21:21:17] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[21:21:17] [Server thread/INFO]: WEPIF: Updated config file
+[21:21:17] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:21:17] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.CraftBukkit_v1_7_R3 as the Bukkit adapter
+[21:21:17] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
+[21:21:17] [Server thread/INFO]: [hChat] Enabling hChat v1.4.4
+[21:21:17] [Server thread/INFO]: [VipSlot] Enabling VipSlot v1.5
+[21:21:17] [Server thread/INFO]: [VipSlot] Plugin activated
+[21:21:17] [Server thread/INFO]: [SimpleTeleportation] Enabling SimpleTeleportation v1.0
+[21:21:17] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
+[21:21:17] [Server thread/INFO]: [ServerListPlus] Loading core...
+[21:21:17] [Server thread/WARN]: [ServerListPlus] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
+[21:21:17] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[21:21:17] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[21:21:17] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[21:21:17] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
+[21:21:17] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
+[21:21:17] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
+[21:21:17] [Server thread/WARN]: [ServerListPlus] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
+[21:21:17] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
+[21:21:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:21:17] [Server thread/INFO]: Done (1.778s)! For help, type "help" or "?"
+[21:21:18] [pool-3-thread-3/INFO]: [hChat] An update is available: hChat v1.5.0
