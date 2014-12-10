@@ -1,75 +1,74 @@
-[23:47:32] [Server thread/INFO]: Starting minecraft server version 1.7.9
-[23:47:32] [Server thread/INFO]: Loading properties
-[23:47:32] [Server thread/INFO]: Default game type: SURVIVAL
-[23:47:32] [Server thread/INFO]: Generating keypair
-[23:47:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:47:32] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
-[23:47:32] [Server thread/INFO]: [VelocityFall] Loading VelocityFall vBeta 1.0
-[23:47:32] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[23:47:32] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.3
-[23:47:32] [Server thread/INFO]: [ItemSpawner] Loading ItemSpawner v0.2.1
-[23:47:32] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.1
-[23:47:32] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
-[23:47:32] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
-[23:47:32] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.9) has not yet been tested! Proceed with caution.
-[23:47:33] [Thread-7/WARN]: Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
-[23:47:33] [Server thread/INFO]: [hChat] Loading hChat v1.4.4
-[23:47:33] [Server thread/INFO]: [VipSlot] Loading VipSlot v1.5
-[23:47:33] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
-[23:47:33] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
-[23:47:33] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[23:47:33] [Server thread/INFO]: Preparing level "world"
-[23:47:33] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2990625635006699866)
-[23:47:33] [Thread-7/WARN]: Could not get latest artifact information: IOException
-[23:47:33] [Server thread/INFO]: [VelocityFall] Enabling VelocityFall vBeta 1.0
-[23:47:33] [Server thread/INFO]: [VelocityFall] Version Beta 1.0 is now enabled
-[23:47:33] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[23:47:33] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[23:47:33] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[23:47:33] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[23:47:33] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[23:47:33] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[23:47:33] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.3
-[23:47:33] [Server thread/INFO]: [LevelHearts] Enabled successfully.
-[23:47:33] [Server thread/INFO]: [ItemSpawner] Enabling ItemSpawner v0.2.1
-[23:47:33] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.1
-[23:47:34] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
-[23:47:34] [Server thread/INFO]: [hChat] Enabling hChat v1.4.4
-[23:47:34] [Server thread/INFO]: [VipSlot] Enabling VipSlot v1.5
-[23:47:34] [Server thread/INFO]: [VipSlot] Plugin activated
-[23:47:34] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
-[23:47:34] [Server thread/INFO]: [ServerListPlus] Loading core...
-[23:47:34] [Server thread/WARN]: [ServerListPlus] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
-[23:47:34] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
-[23:47:34] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
-[23:47:34] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
-[23:47:34] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
-[23:47:34] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
-[23:47:34] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
-[23:47:34] [Server thread/WARN]: [ServerListPlus] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
-[23:47:34] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
-[23:47:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:47:34] [Server thread/INFO]: Done (1.015s)! For help, type "help" or "?"
-[23:47:35] [pool-3-thread-3/INFO]: [hChat] An update is available: hChat v1.5.0
-[23:47:41] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[23:47:41] [Server thread/INFO]: Stopping server
-[23:47:41] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.2.1
-[23:47:41] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 disabled.
-[23:47:41] [Server thread/INFO]: [VipSlot] Disabling VipSlot v1.5
-[23:47:41] [Server thread/INFO]: [hChat] Disabling hChat v1.4.4
-[23:47:41] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.4.0
-[23:47:41] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
-[23:47:41] [Server thread/INFO]: [SlotLock] Disabling SlotLock v2.1
-[23:47:41] [Server thread/INFO]: [ItemSpawner] Disabling ItemSpawner v0.2.1
-[23:47:41] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.2.3
-[23:47:41] [Server thread/INFO]: [LevelHearts] Disabled successfully.
-[23:47:41] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
-[23:47:41] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
-[23:47:41] [Server thread/INFO]: [VelocityFall] Disabling VelocityFall vBeta 1.0
-[23:47:41] [Server thread/INFO]: Saving players
-[23:47:41] [Server thread/INFO]: Saving worlds
-[23:47:41] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:47:41] [Thread-4/INFO]: Stopping server
-[23:47:41] [Thread-4/INFO]: Saving players
-[23:47:41] [Thread-4/INFO]: Saving worlds
-[23:47:41] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[18:28:04] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[18:28:04] [Server thread/INFO]: Loading properties
+[18:28:04] [Server thread/INFO]: Default game type: SURVIVAL
+[18:28:04] [Server thread/INFO]: Generating keypair
+[18:28:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:28:04] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[18:28:05] [Thread-7/WARN]: Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
+[18:28:05] [Server thread/INFO]: [VelocityFall] Loading VelocityFall vBeta 1.0
+[18:28:05] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[18:28:05] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.3
+[18:28:05] [Server thread/INFO]: [ItemSpawner] Loading ItemSpawner v0.2.1
+[18:28:05] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.1
+[18:28:05] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
+[18:28:05] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
+[18:28:05] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.9) has not yet been tested! Proceed with caution.
+[18:28:05] [Thread-7/WARN]: Could not get latest artifact information: IOException
+[18:28:05] [Server thread/INFO]: [hChat] Loading hChat v1.4.4
+[18:28:05] [Server thread/INFO]: [VipSlot] Loading VipSlot v1.5
+[18:28:05] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
+[18:28:05] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
+[18:28:05] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[18:28:05] [Server thread/INFO]: Preparing level "world"
+[18:28:05] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2990625635006699866)
+[18:28:06] [Server thread/INFO]: [VelocityFall] Enabling VelocityFall vBeta 1.0
+[18:28:06] [Server thread/INFO]: [VelocityFall] Version Beta 1.0 is now enabled
+[18:28:06] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[18:28:06] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[18:28:06] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[18:28:06] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[18:28:06] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[18:28:06] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[18:28:06] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.3
+[18:28:06] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[18:28:06] [Server thread/INFO]: [ItemSpawner] Enabling ItemSpawner v0.2.1
+[18:28:06] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.1
+[18:28:06] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
+[18:28:06] [Server thread/INFO]: [hChat] Enabling hChat v1.4.4
+[18:28:06] [Server thread/INFO]: [VipSlot] Enabling VipSlot v1.5
+[18:28:06] [Server thread/INFO]: [VipSlot] Plugin activated
+[18:28:06] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
+[18:28:06] [Server thread/INFO]: [ServerListPlus] Loading core...
+[18:28:06] [Server thread/WARN]: [ServerListPlus] [Core] Your server is using an outdated YAML version. The configuration might not work correctly.
+[18:28:06] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[18:28:06] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[18:28:06] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[18:28:06] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
+[18:28:06] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
+[18:28:06] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
+[18:28:06] [Server thread/WARN]: [ServerListPlus] You are not using Spigot! Please consider using Spigot instead of CraftBukkit as of ServerListPlus is optimized for Spigot. Thanks!
+[18:28:06] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
+[18:28:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:28:06] [Server thread/INFO]: Done (1.122s)! For help, type "help" or "?"
+[18:28:07] [pool-3-thread-3/INFO]: [hChat] An update is available: hChat v1.5.0
+[18:28:18] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[18:28:18] [Server thread/INFO]: Stopping server
+[18:28:18] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.2.1
+[18:28:18] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 disabled.
+[18:28:18] [Server thread/INFO]: [VipSlot] Disabling VipSlot v1.5
+[18:28:18] [Server thread/INFO]: [hChat] Disabling hChat v1.4.4
+[18:28:18] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.4.0
+[18:28:18] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
+[18:28:18] [Server thread/INFO]: [SlotLock] Disabling SlotLock v2.1
+[18:28:18] [Server thread/INFO]: [ItemSpawner] Disabling ItemSpawner v0.2.1
+[18:28:18] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.2.3
+[18:28:18] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[18:28:18] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[18:28:18] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[18:28:18] [Server thread/INFO]: [VelocityFall] Disabling VelocityFall vBeta 1.0
+[18:28:18] [Server thread/INFO]: Saving players
+[18:28:18] [Server thread/INFO]: Saving worlds
+[18:28:18] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:28:19] [Thread-4/INFO]: Stopping server
+[18:28:19] [Thread-4/INFO]: Saving players
+[18:28:19] [Thread-4/INFO]: Saving worlds
