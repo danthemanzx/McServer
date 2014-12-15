@@ -1,0 +1,167 @@
+general:
+  KeyMaterial: 'BLAZE_ROD'
+  KeyDV: 1
+  KeyName: 'Key'
+  SkeletonKeyMaterial: 'BONE'
+  SkeletonKeyDV: 1
+  SkeletonKeyName: 'Skeleton Key'
+  SkeletonKeyCraftingEnabled: true
+  LockPickMaterial: 'STICK'
+  LockPickDV: 1
+  LockPickName: 'Lock Pick'
+  LockPickBreakChance: 0.33
+  LockPickBreakChanceRate: 0.01
+  LockPickMinBreakChance: 0.05
+  LockPickRecipeShape:
+  - 'GI'
+  LockPickRecipeMats:
+    G: 'GOLD_INGOT'
+    I: 'IRON_INGOT'
+  EnableExplosionProtection: false
+  EnableHopperProtection: false
+  EnableZombieProtection: false
+  TrapText: 'Trap'
+  HideLocks: false
+  HideTraps: false
+traps:
+  damage1:
+    TrapMaterial: 'FLINT'
+    TrapDV: 1
+    TrapName: 'Chest Trap'
+    Type: Damage
+    Power: 2
+    Uses: 10
+    RecipeShape:
+    - ' A '
+    - 'AFA'
+    - ' A '
+    RecipeMats:
+      F: 'FLINT'
+      A: 'ARROW'
+  explosive1:
+    TrapMaterial: 'FLINT'
+    TrapDV: 1
+    TrapName: 'Explosive Trap'
+    Type: Explosive
+    Power: 2
+    Uses: 1
+    RecipeShape:
+    - ' T '
+    - 'TFT'
+    - ' T '
+    RecipeMats:
+      F: 'FLINT'
+      T: 'TNT'
+  poison1:
+    TrapMaterial: 'FLINT'
+    TrapDV: 1
+    TrapName: 'Poison Gas Trap'
+    Type: Poison
+    Power: 5
+    Uses: 1
+    RecipeShape:
+    - ' P '
+    - 'EFE'
+    - ' P '
+    RecipeMats:
+      F: 'FLINT'
+      E: 'SPIDER_EYE'
+      P: 'POISONOUS_POTATO'
+locks:
+  basic1:
+    LockMaterial: 'IRON_INGOT'
+    LockDV: 1
+    LockName: 'Basic Lock'
+    Difficulty: 1
+    RecipeShape:
+    - BI
+    RecipeMats:
+      I: 'IRON_INGOT'
+      B: 'IRON_BLOCK'
+  basic2:
+    LockMaterial: 'IRON_INGOT'
+    LockDV: 2
+    LockName: 'Advanced Lock'
+    Difficulty: 2
+    RecipeShape:
+    - IBI
+    RecipeMats:
+      I: 'IRON_INGOT'
+      B: 'IRON_BLOCK'
+  basic3:
+    LockMaterial: 'IRON_INGOT'
+    LockDV: 3
+    LockName: 'Strong Lock'
+    Difficulty: 3
+    RecipeShape:
+    - ' I '
+    - IBI
+    - '   '
+    RecipeMats:
+      I: 'IRON_INGOT'
+      B: 'IRON_BLOCK'
+  basic4:
+    LockMaterial: 'IRON_INGOT'
+    LockDV: 4
+    LockName: 'Tough Lock'
+    Difficulty: 4
+    RecipeShape:
+    - ' I '
+    - IBI
+    - ' I '
+    RecipeMats:
+      I: 'IRON_INGOT'
+      B: 'IRON_BLOCK'
+  basic5:
+    LockMaterial: 'IRON_INGOT'
+    LockDV: 5
+    LockName: 'Fine Lock'
+    Difficulty: 5
+    RecipeShape:
+    - III
+    - IBI
+    RecipeMats:
+      I: 'IRON_INGOT'
+      B: 'IRON_BLOCK'
+  master:
+    LockMaterial: 'GOLD_INGOT'
+    LockDV: 6
+    LockName: 'Masterful Lock'
+    Difficulty: 6
+    RecipeShape:
+    - III
+    - IBI
+    - III
+    RecipeMats:
+      I: 'GOLD_INGOT'
+      B: 'GOLD_BLOCK'
+events:
+  fail1:
+    event: fail
+    action: server-command
+    payload: 'kick <player>'
+  fail2:
+    event: fail
+    action: player-command
+    payload: 'me failed to pick a <lock>'
+  success1:
+    event: success
+    action: player-message
+    payload: 'congrats to your success!'
+  success2:
+    event: success
+    action: server-message
+    payload: '<player> successfully picked a <lock>'
+messages:
+  level-1-perm: 'This lock is to difficult for you!'
+  level-2-perm: 'This lock is to difficult for you!'
+  level-3-perm: 'This lock is to difficult for you!'
+  level-4-perm: 'This lock is to difficult for you!'
+  level-5-perm: 'This lock is to difficult for you!'
+  unpickable-lock: 'This lock can not be picked!'
+  bypass: 'Lock bypassed.'
+  key-used: 'You opened the lock with your key.'
+  pick-needed-chest: 'You need a <lockpick> to open this chest!'
+  pick-needed-door: 'You need a <lockpick> to open this door!'
+  pick-break: 'Your <lockpick> broke!'
+  door-locked: 'You locked a door!'
