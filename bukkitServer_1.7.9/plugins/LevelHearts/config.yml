@@ -2,29 +2,32 @@
 # Please visit http://dev.bukkit.org/bukkit-plugins/lvlhearts/ for more information!
 
 config:
-  version: 1.2.1
-  autoUpdate: false
+  version: 1.2.3
+  autoUpdate: true
 
 metricsEnabled: true
 
 updateCheck:
-  enabled: false
+  enabled: true
   informOperators: false
 
 maxHealth:
   default: 20
   levelInterval: 10
-  limit: 40
+  limit: 60
   reset:
+    levelChange: false
     login: false
     death: true
   restoreHealth: true
   particleEffect:
-    increase: heart
-    decrease: none
+    increase: true
+    decrease: true
 
 chat:
   language: enUS
+  changeMessagesEnabled: true
+  commandMessagesEnabled: true
 
 commands:
   maxHealthEnabled: true

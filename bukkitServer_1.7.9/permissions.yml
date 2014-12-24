@@ -1,0 +1,25 @@
+plugin.LoreLocks:
+       description: Permissions for the LoreLocks plugin.
+       default: false
+       children:
+          test.test: true
+plugin.RandomBox:
+       description: Basic pPermissions for the LoreLocks plugin.
+       default: false
+       children:
+          test.test: true
+# Player Ranks
+rank.player:
+       description: Basic player permissions.
+       default: false
+       children:
+          #plugin.LoreLocks: true
+          #BukkitWiki.cmd2: true
+          #BukkitWiki.cmd4: true
+          #BukkitWiki.cmd5: true
+
+rank.amdin:
+        description: Admin --
+        default: false
+        children:
+            #command.test.

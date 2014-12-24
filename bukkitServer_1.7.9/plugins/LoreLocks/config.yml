@@ -1,5 +1,5 @@
 general:
-  KeyMaterial: '131'
+  KeyMaterial: 'BLAZE_ROD'
   KeyDV: 1
   KeyName: 'Key'
   SkeletonKeyMaterial: 'BONE'
