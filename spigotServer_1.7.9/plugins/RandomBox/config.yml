@@ -1,0 +1,164 @@
+# - - - - - - - - - - - - - - - - - - - - -
+# Описание и настройка плагина на русском:
+# rubukkit.org/threads/.83608/
+# - - - - - - - - - - - - - - - - - - - - -
+# Configuration file for RandomBox
+# Plugin author: saharNooby
+# - - - - - - - - - - - - - - - - - - - - -
+# File format is YAML
+# To check is file correct use
+# http://yaml-online-parser.appspot.com/
+# If you want reset settings,
+# you can delete this file.
+# - - - - - - - - - - - - - - - - - - - - -
+# If this parameter is true, in the console
+# will print messages, like calculated
+# probabilities.
+# - - - - - - - - - - - - - - - - - - - - -
+debug: false
+# - - - - - - - - - - - - - - - - - - - - -
+# Use metrics. Site: http://mcstats.org
+# - - - - - - - - - - - - - - - - - - - - -
+metrics: true
+# - - - - - - - - - - - - - - - - - - - - -
+# All boxes that available
+# - - - - - - - - - - - - - - - - - - - - -
+boxes:
+  9902:
+    boxItem: STORAGE_MINECART
+    boxName: '&7Armor Kit'
+    itemsToSelectCount: 4
+    checkPermission: false
+    openWhenClicked: true
+    enchant: true
+    unstackable: true
+    items:
+      item1:
+        item: DIAMOND_HELMET
+        amount: 1
+        name: '&bDiamond Helmet'
+        enchants:
+          protection: 4
+          unbreaking: 3
+        chance: 100
+      item2:
+        item: DIAMOND_CHESTPLATE
+        amount: 1
+        name: '&bDiamond Chestplate'
+        enchants:
+          protection: 4
+          unbreaking: 3
+        chance: 100
+      item3:
+        item: DIAMOND_LEGGINGS
+        amount: 1
+        name: '&bDiamond Leggings'
+        enchants:
+          protection: 4
+          unbreaking: 3
+        chance: 100
+      item4:
+        item: DIAMOND_BOOTS
+        amount: 1
+        name: '&bDiamond Boots'
+        enchants:
+          protection: 4
+          unbreaking: 3
+        chance: 100
+# - - - - - - - - - - - - - - - - - - - - -
+# Name of section with strings. You can
+# add you own section and set "locale"
+# parameter to it's name.
+# - - - - - - - - - - - - - - - - - - - - -
+# Default locales:
+# en (English), ru (Русский)
+# - - - - - - - - - - - - - - - - - - - - -
+locale: en
+strings:
+  en:
+    # - - - - - - - - - - - - - - - - - - - - -
+    # Messages that printing in chat.
+    # Can be colored with &<color code>.
+    # Color codes:
+    # minecraft.gamepedia.com/Formatting_codes
+    # You can use & instead of §
+    # - - - - - - - - - - - - - - - - - - - - -
+    itemsToDrop: 'Drop items:'
+    # - - - - - - - - - - - - - - - - - - - - -
+    # Messages prefix
+    prefix: '&3[&bRandomBox&3] &6'
+    # - - - - - - - - - - - - - - - - - - - - -
+    # Messages
+    configReloaded: 'Config reloaded.'
+    boxGiven: 'Box succesfully given.'
+    itemsDropped: 'You got: '
+    # - - - - - - - - - - - - - - - - - - - - -
+    # General errors
+    noPermissions: 'You don''t have permission to do that.'
+    boxOpenError: 'Box open error'
+    boxGiveError: 'Box give error'
+    # - - - - - - - - - - - - - - - - - - - - -
+    # Detailed errors
+    
+    # Nulls
+    itemIsNULL: 'item is null!'
+    sectionIsNULL: 'section is null!'
+    
+    # Box creation
+    noSuchBox: 'there is no box in config with this id.'
+    canNotParseBox: 'cant parse box options.'
+    notABox: 'that is not a box.'
+    convertError: 'box section name is not valid number.'
+    selectCntLessThanOne: 'drop items count less than one or not specified.'
+    noItemsSection: 'there is no section with items in config.'
+    
+    # Item creation
+    chanceLessThanOne: 'one of items hasnt probability or it less than one.'
+    invalidCommandSection: 'one of items has invalid commands section.'
+    
+    # Commands errors
+    notAPlayer: 'you are not a player!'
+    playerNotFound: 'player not found.'
+    idMustBeNumerical: 'box id must be a number.'
+    noPermissionsToOpen: 'you don''t have permisson to open that box.'
+    notEnoughSpace: 'you inventory is full!'
+  ru:
+    itemsToDrop: 'Выпадающие предметы:'
+    # - - - - - - - - - - - - - - - - - - - - -
+    # Префикс сообщений.
+    prefix: '&3[&bRandomBox&3] &6'
+    # - - - - - - - - - - - - - - - - - - - - -
+    # Сообщения от плагина.
+    configReloaded: 'Настройки перезагружены.'
+    boxGiven: 'Коробка успешно выдана.'
+    itemsDropped: 'Вы получили: '
+    # - - - - - - - - - - - - - - - - - - - - -
+    # Ошибки, выводимые в чат.
+    noPermissions: 'У вас нет прав для выполнения этой команды.'
+    boxOpenError: 'Произошла ошибка при открытии коробки'
+    boxGiveError: 'Произошла ошибка при выдаче коробки'
+    # - - - - - - - - - - - - - - - - - - - - -
+    # Подробные описания ошибок.
+    
+    # Null
+    itemIsNULL: 'item is null!'
+    sectionIsNULL: 'section is null!'
+    
+    # Создание коробки
+    noSuchBox: 'в config.yml нет коробки с таким id.'
+    canNotParseBox: 'не удалось распарсить настройки коробки.'
+    notABox: 'это не коробка.'
+    convertError: 'имя секции не является целым числом.'
+    selectCntLessThanOne: 'количество выпадающих вещей меньше 1 или отсутствует.'
+    noItemsSection: 'отсутствует секция с выпадающими вещами.'
+    
+    # Создание вещи
+    chanceLessThanOne: 'шанс выпадения одной из вещей меньше 1 или отсутствует.'
+    invalidCommandSection: 'для одной из вещей неверно задана выполняемая команда.'
+    
+    # Ошибки в выполнении команд
+    notAPlayer: 'вы не игрок! (WTF?!).'
+    playerNotFound: 'игрок не найден.'
+    idMustBeNumerical: 'идентификатор коробки должен быть числом.'
+    noPermissionsToOpen: 'у вас нет прав для открытия этой коробки.'
+    notEnoughSpace: 'недостаточно места в инвентаре.'

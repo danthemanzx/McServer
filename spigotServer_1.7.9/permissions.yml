@@ -1,0 +1,18 @@
+# RandomBox
+plugin.RandomBox:
+       description: RandomBox Perms.
+       default: false
+       children:
+          plugin.RandomBox.basic: true
+# Basic Perms
+plugin.RandomBox.basic:
+       description: Basic RandomBox Perms.
+       default: false
+       children:
+          randombox.openbox: true
+# Ranks
+rank.player:
+       description: Player Perms.
+       default: true
+       children:
+          plugin.randomBox.basic: true
