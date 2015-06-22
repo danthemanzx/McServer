@@ -1,77 +1,70 @@
-[11:47:28] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[11:47:28] [Server thread/INFO]: Loading properties
-[11:47:28] [Server thread/INFO]: Default game type: SURVIVAL
-[11:47:28] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[11:47:28] [Server thread/INFO]: Debug logging is disabled
-[11:47:28] [Server thread/INFO]: Using 4 threads for Netty based IO
-[11:47:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[11:47:28] [Server thread/INFO]: Generating keypair
-[11:47:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:47:28] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[11:47:28] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[11:47:28] [Server thread/INFO]: [RandomBox] Loading RandomBox v1.6
-[11:47:28] [Server thread/INFO]: [BedHome] Loading BedHome v2.25
-[11:47:28] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.4
-[11:47:28] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[11:47:28] [Server thread/INFO]: Preparing level "world"
-[11:47:28] [Server thread/INFO]: -------- World Settings For [world] --------
-[11:47:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[11:47:28] [Server thread/INFO]: Clear tick list: false
-[11:47:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[11:47:28] [Server thread/INFO]: View Distance: 10
-[11:47:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[11:47:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[11:47:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[11:47:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[11:47:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[11:47:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[11:47:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[11:47:28] [Server thread/INFO]: Sending up to 5 chunks per packet
-[11:47:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[11:47:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[11:47:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[11:47:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[11:47:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[11:47:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[11:47:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[11:47:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[11:47:28] [Server thread/INFO]: Max Entity Collisions: 8
-[11:47:28] [Server thread/INFO]: Anti X-Ray: true
-[11:47:28] [Server thread/INFO]: 	Engine Mode: 1
-[11:47:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[11:47:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[11:47:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[11:47:28] [Server thread/INFO]: Random Lighting Updates: false
-[11:47:28] [Server thread/INFO]: Structure Info Saving: true
-[11:47:28] [Server thread/INFO]: Max TNT Explosions: 100
-[11:47:28] [Server thread/INFO]: Alternative Hopper Ticking: false
-[11:47:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[11:47:28] [Server thread/INFO]: Mob Spawn Range: 4
-[11:47:28] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4850815359829583003)
-[11:47:29] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[11:47:29] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[11:47:29] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[11:47:29] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[11:47:29] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[11:47:29] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[11:47:29] [Server thread/INFO]: [RandomBox] Enabling RandomBox v1.6
-[11:47:29] [Server thread/INFO]: [RandomBox] Loading config...
-[11:47:29] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
-[11:47:29] [Server thread/INFO]: [RandomBox] Configuration loaded.
-[11:47:29] [Server thread/INFO]: [BedHome] Enabling BedHome v2.25
-[11:47:29] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.4
-[11:47:29] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
-[11:47:29] [Server thread/INFO]: Done (0.903s)! For help, type "help" or "?"
-[11:48:26] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[11:48:26] [Server thread/INFO]: Stopping server
-[11:48:26] [Server thread/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.4
-[11:48:26] [Server thread/INFO]: [BedHome] Disabling BedHome v2.25
-[11:48:26] [Server thread/INFO]: [RandomBox] Disabling RandomBox v1.6
-[11:48:26] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
-[11:48:26] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
-[11:48:26] [Server thread/INFO]: Saving players
-[11:48:26] [Server thread/INFO]: Saving worlds
-[11:48:26] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[11:48:26] [Thread-4/INFO]: Stopping server
-[11:48:26] [Thread-4/INFO]: Saving players
-[11:48:26] [Thread-4/INFO]: Saving worlds
+[12:13:18] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[12:13:18] [Server thread/INFO]: Loading properties
+[12:13:18] [Server thread/INFO]: Default game type: SURVIVAL
+[12:13:18] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[12:13:19] [Server thread/INFO]: Debug logging is disabled
+[12:13:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:13:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:13:19] [Server thread/INFO]: Generating keypair
+[12:13:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:13:19] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:13:19] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[12:13:19] [Server thread/INFO]: [RandomBox] Loading RandomBox v1.6
+[12:13:19] [Server thread/INFO]: [BedHome] Loading BedHome v2.25
+[12:13:19] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.4
+[12:13:19] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:13:19] [Server thread/INFO]: Preparing level "world"
+[12:13:19] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:13:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:13:19] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:13:19] [Server thread/INFO]: Clear tick list: false
+[12:13:19] [Server thread/INFO]: View Distance: 10
+[12:13:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:13:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:13:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:13:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:13:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:13:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:13:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:13:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:13:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:13:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:13:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:13:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:13:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:13:19] [Server thread/INFO]: Max Entity Collisions: 8
+[12:13:19] [Server thread/INFO]: Sending up to 5 chunks per packet
+[12:13:19] [Server thread/INFO]: Mob Spawn Range: 4
+[12:13:19] [Server thread/INFO]: Anti X-Ray: true
+[12:13:19] [Server thread/INFO]: 	Engine Mode: 1
+[12:13:19] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:13:19] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:13:19] [Server thread/INFO]: Alternative Hopper Ticking: false
+[12:13:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:13:19] [Server thread/INFO]: Random Lighting Updates: false
+[12:13:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:13:19] [Server thread/INFO]: Structure Info Saving: true
+[12:13:19] [Server thread/INFO]: Max TNT Explosions: 100
+[12:13:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:13:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:13:19] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4850815359829583003)
+[12:13:19] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[12:13:19] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[12:13:19] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[12:13:19] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[12:13:19] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[12:13:19] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[12:13:19] [Server thread/INFO]: [RandomBox] Enabling RandomBox v1.6
+[12:13:19] [Server thread/INFO]: [RandomBox] Loading config...
+[12:13:19] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
+[12:13:19] [Server thread/INFO]: [RandomBox] Configuration loaded.
+[12:13:19] [Server thread/INFO]: [BedHome] Enabling BedHome v2.25
+[12:13:20] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.4
+[12:13:20] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
+[12:13:20] [Server thread/INFO]: Done (0.883s)! For help, type "help" or "?"
+[12:18:22] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[12:18:22] [Server thread/INFO]: thudog77[/127.0.0.1:60853] logged in with entity id 163 at ([world] -22.626699028045522, 77.0, 298.5762312294668)
+[12:18:32] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[12:18:32] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
+[12:19:21] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[12:19:21] [Server thread/INFO]: thudog77 left the game.
