@@ -24,47 +24,44 @@ metrics: true
 # All boxes that available
 # - - - - - - - - - - - - - - - - - - - - -
 boxes:
+  # Box id, must be a integer.
+  # Please, use large numbers
+  # to id does not intersect
+  # with the standard data values.
   9902:
     boxItem: STORAGE_MINECART
-    boxName: '&7Armor Kit'
-    itemsToSelectCount: 4
+    boxName: '&eStarter Kit'
+    itemsToSelectCount: 2
     checkPermission: false
     openWhenClicked: true
     enchant: true
     unstackable: true
     items:
       item1:
-        item: DIAMOND_HELMET
+        item: STONE_AXE
         amount: 1
-        name: '&bDiamond Helmet'
+        name: '&eStone Axe'
+        lore:
+        - '&7Apart of the starter kit.'
+        - '&7Very durable.'
         enchants:
-          protection: 4
-          unbreaking: 3
+          unbreaking: 5
         chance: 100
       item2:
-        item: DIAMOND_CHESTPLATE
-        amount: 1
-        name: '&bDiamond Chestplate'
-        enchants:
-          protection: 4
-          unbreaking: 3
-        chance: 100
+        item: WHEAT_SEEDS
+        amount: 2
+        name: '&eWheat Seeds'
+        chance: 25
       item3:
-        item: DIAMOND_LEGGINGS
-        amount: 1
-        name: '&bDiamond Leggings'
-        enchants:
-          protection: 4
-          unbreaking: 3
-        chance: 100
+        item: PUMPKIN_SEEDS
+        amount: 2
+        name: '&ePumpkin Seeds'
+        chance: 25
       item4:
-        item: DIAMOND_BOOTS
-        amount: 1
-        name: '&bDiamond Boots'
-        enchants:
-          protection: 4
-          unbreaking: 3
-        chance: 100
+        item: MELON_SEEDS
+        amount: 2
+        name: '&eMelon Seeds'
+        chance: 25
 # - - - - - - - - - - - - - - - - - - - - -
 # Name of section with strings. You can
 # add you own section and set "locale"
